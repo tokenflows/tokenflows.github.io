@@ -1,0 +1,22 @@
+.DS_store
+### doks base theme.
+# _theme/
+
+### Deno / Lume Generated Files ###
+site/
+src/_cache/
+.deno/
+
+### Nix ###
+result
+.direnv/
+.devenv/
+
+### Development Artefacts - Can be deleted ###
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
