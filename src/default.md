@@ -1,12 +1,21 @@
 ---
 # Page settings
-layout: default
-keywords:
+layout: layouts/default.njk
+keywords: ["Token", "Token Engineering", "EUTxO" ]
 comments: false
 
 # Hero section
 title: Page title
 description: Page description
+
+buttons:
+    - content: Button
+      url: '#'
+      external_url: false
+    - icon: github
+      content: Button with icon
+      url: '#'
+      external_url: true
 
 # Author box
 author:

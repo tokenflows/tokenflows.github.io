@@ -11,49 +11,50 @@
 @charset 'utf-8';
 
 /* ----- Variables ----- */
-@import 'variables';
+@import 'sass/variables';
 
 /* ----- Tools ----- */
-@import 'tools/prefixer';
-@import 'tools/clearfix';
-@import 'tools/grid-framework';
-@import 'tools/grid';
-@import 'tools/hyperlinks';
-@import 'tools/lists';
-@import 'tools/responsive-visibility';
+@import 'sass/tools/prefixer';
+@import 'sass/tools/clearfix';
+@import 'sass/tools/grid-framework';
+@import 'sass/tools/grid';
+@import 'sass/tools/hyperlinks';
+@import 'sass/tools/lists';
+@import 'sass/tools/responsive-visibility';
 
 /* ----- Base ----- */
-@import 'generic/normalize';
-@import 'generic/base';
-@import 'generic/code';
+@import 'sass/generic/normalize';
+@import 'sass/generic/base';
+@import 'sass/generic/page-container';
+@import 'sass/generic/code';
 
 /* ----- Utilities ----- */
-@import 'utilities/alignment';
-@import 'utilities/visibility';
+@import 'sass/utilities/alignment';
+@import 'sass/utilities/visibility';
 
 /* ----- Objects ----- */
-@import 'objects/buttons';
-@import 'objects/content';
-@import 'objects/error-404';
-@import 'objects/grid';
-@import 'objects/icons';
-@import 'objects/section';
+@import 'sass/objects/buttons';
+@import 'sass/objects/content';
+@import 'sass/objects/error-404';
+@import 'sass/objects/grid';
+@import 'sass/objects/icons';
+@import 'sass/objects/section';
 
 /* ----- Components ----- */
-@import 'components/callout';
-@import 'components/example';
-@import 'components/hero-subheader';
-@import 'components/micro-nav';
-@import 'components/nav-grid';
-@import 'components/page-nav';
-@import 'components/sections-list';
-@import 'components/site-footer';
-@import 'components/site-header';
-@import 'components/social-list';
-@import 'components/title-anchor-link';
+@import 'sass/components/callout';
+@import 'sass/components/example';
+@import 'sass/components/hero-subheader';
+@import 'sass/components/micro-nav';
+@import 'sass/components/nav-grid';
+@import 'sass/components/page-nav';
+@import 'sass/components/sections-list';
+@import 'sass/components/site-footer';
+@import 'sass/components/site-header';
+@import 'sass/components/social-list';
+@import 'sass/components/title-anchor-link';
 
 /* ----- Themes ----- */
-@import 'themes/green';
-@import 'themes/red';
-@import 'themes/yellow';
-@import 'themes/purple';
+@import 'sass/themes/green';
+@import 'sass/themes/red';
+@import 'sass/themes/yellow';
+@import 'sass/themes/purple';

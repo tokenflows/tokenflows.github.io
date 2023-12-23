@@ -9,7 +9,8 @@ html {
 	-webkit-tap-highlight-color: transparent;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-
+	height: 100%;
+	
 	@media (min-width: $screen-sm-min) {
 		font-size: 16px;
 	}
@@ -20,6 +21,7 @@ body {
 	font-family: $font-family-primary;
 	font-size: $font-size-base;
 	line-height: $line-height-base;
+	height: 100%;
 }
 
 /* ----- Everything ----- */

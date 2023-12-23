@@ -18,7 +18,6 @@ const site = lume({location: new URL("https://yumi.ai/")});
 site
   .ignore("README.md", "LICENSE", "CHANGELOG.md", ".gitkeep")
   .use(sass({
-    sass_dir: "./_sass",
     style: "compressed"
   }))
   .use(jsx())
@@ -54,7 +53,7 @@ site
       content: "$.post-body",
     }
   }))
-  .copy("assets/scripts/")  // TODO: copyRemainingFiles() should take care of this.
+  .copy("assets/js/")  // TODO: copyRemainingFiles() should take care of this.
   .copyRemainingFiles();
   
 export default site;

@@ -1,0 +1,29 @@
+color_theme: blue # Available themes: blue (default), green, purple, red and yellow
+header:
+    logo:
+        text: 
+        image: 'layout/logo.png'
+    nav:
+        - item_name: Item 1
+          item_url: '/example-url-1'
+        - item_name: Item 2
+          item_url: '/example-url-2'
+        - item_name: Item 3
+          item_url: '/example-url-3'
+footer:
+    content:
+        logo:
+            text:
+            image: 'layout/logo-footer.png'
+        copyright: Copyright &copy; 2023. - Tokenflows <br>All rights reserved.
+    social_list:
+        - network_name: x
+          profile_url: '@tokenflows'
+        - network_name: youtube
+          profile_url: 'tokenflows'
+        - network_name: github
+          profile_url: 'tokenflows'  
+google_analytics:
+    tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+comments:
+    disqus_forum_shortname: # Add your disqus forum shortname to activate comments

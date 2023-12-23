@@ -13,7 +13,7 @@
 	(function() {
 		var d = document, s = d.createElement('script');
 
-		s.src = 'https://{{ site.doks.comments.disqus_forum_shortname }}.disqus.com/embed.js';
+		s.src = 'https://{{ doks.comments.disqus_forum_shortname }}.disqus.com/embed.js';
 
 		s.setAttribute('data-timestamp', +new Date());
 		(d.head || d.body).appendChild(s);

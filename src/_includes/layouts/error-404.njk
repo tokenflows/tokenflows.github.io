@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include 'partials/site-head.njk' %}
+	</head>
+	<body class="{{ doks.color_theme }} error-404">
+		<div class="align-container">
+			<div class="align-inner">
+				<h1 class="error-404__title">{{ (page_content.title | safe) }}</h1>
+				{% if page_content.message %}
+					<p>{{ (page_content.message | safe) }}</p>
+				{% endif %}
+				<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}/" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
+					<i class="icon icon--home"></i>
+					Go back home
+				</a>
+			</div><!-- /.align-inner -->
+		</div><!-- /.align-container -->
+	</body>
+</html>

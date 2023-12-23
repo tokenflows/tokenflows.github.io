@@ -1,11 +1,11 @@
 ---
 # Page settings
-layout: homepage
-keywords:
+layout: layouts/homepage.njk
+keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
-title: Project name
-description: Project description
+title: Token Flows
+description: Token Engineering with EUTxO
 buttons:
     - content: Button
       url: '#'
@@ -28,4 +28,24 @@ grid_navigation:
       excerpt: Section description
       cta: Read more
       url: '#'
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'                              
 ---

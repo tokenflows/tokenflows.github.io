@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include 'partials/site-head.njk' %}
+	</head>
+	<body class="{{ doks.color_theme }}" data-spy="scroll" data-target=".js-scrollspy">
+	  <div class="page_container">		
+		{% include 'partials/site-header.njk' %}
+		<div class="hero-subheader">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7">
+						<div class="align-container" data-mh>
+							<div class="align-inner">
+								{% if title %}
+									<h1 class="hero-subheader__title">{{ title }}</h1>
+								{% endif %}
+								{% if description %}
+									<p class="hero-subheader__desc">{{ description }}</p>
+								{% endif %}
+								{% if nav.prev.content or nav.next.content %}
+									{% if nav.prev.content and nav.prev.url %}
+										<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}{{ nav.prev.url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
+											<i class="icon icon--arrow-left"></i>
+											{{ nav.prev.content }}
+										</a>
+									{% endif %}
+									{% if nav.next.content and nav.next.url %}
+										<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}{{ nav.next.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+											<i class="icon icon--arrow-right"></i>
+											{{ nav.next.content }}
+										</a>
+									{% endif %}
+								{% endif %}
+							</div><!-- /.align-inner -->
+						</div><!-- /.align-container -->
+					</div><!-- /.col -->
+					{% if author.title and author.description and author.title_url %}
+						<div class="col-md-4 col-md-offset-1 hidden-xs hidden-sm">
+							<div class="align-container" data-mh>
+								<div class="align-inner">
+									<div class="hero-subheader__author">
+										<p class="hero-subheader__author-title">
+											{% if button.external_url == true %}
+											<a href="{{ author.title_url }}" class="btn btn--read-more">
+												{{ author.title }}
+												<i class="icon icon--arrow-right"></i>
+											</a>
+											{% else %}
+											<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}{{ author.title_url }}" class="btn btn--read-more">
+												{{ author.title }}
+												<i class="icon icon--arrow-right"></i>
+											</a>
+											{% endif %}
+										</p><!-- /.hero-subheader__author-title -->
+										<p>{{ author.description }}</p>
+									</div><!-- /.hero-subheader__author -->
+								</div><!-- /.align-inner -->
+							</div><!-- /.align-container -->
+						</div><!-- /.col -->
+					{% endif %}
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.hero-subheader -->
+		<div class="section main-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7">
+						<div class="content">
+							{{ (content | safe) }}
+						</div><!-- /.content -->
+					</div><!-- /.col -->
+					<div class="col-md-4 col-md-offset-1">
+						<div class="sections-list-wrapper">
+							<div class="sections-list js-sections js-affix js-scrollspy hidden-xs hidden-sm"></div><!-- /.sections-list -->
+						</div>
+					</div><!-- /.col -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.section -->
+		{% if environment == true and doks.comments.disqus_forum_shortname %}
+			<div class="section section--grey">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7">
+							{% include 'partials/comments.njk' %}
+						</div><!-- /.col -->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</div><!-- /.section -->
+		{% endif %}
+		<div class="js-footer-area">
+			{% if nav.prev.content or nav.next.content %}
+				<nav class="nav">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12">
+								{% if nav.prev.content and nav.prev.url %}
+									<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}{{ nav.prev.url }}" class="nav__item nav__item--prev">
+										<i class="icon icon--arrow-left"></i>
+										{{ nav.prev.content }}
+									</a><!-- /.nav__item -->
+								{% endif %}
+								{% if nav.next.content and nav.next.url %}
+									<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}{{ nav.next.url }}" class="nav__item nav__item--next">
+										{{ nav.next.content }}
+										<i class="icon icon--arrow-right"></i>
+									</a><!-- /.nav__item -->
+								{% endif %}
+							</div><!-- /.col -->
+						</div><!-- /.row -->
+					</div><!-- /.container -->
+				</nav><!-- /.nav -->
+			{% endif %}
+			{% if micro_nav == true %}
+				{% include 'partials/micro-nav.njk' %}
+			{% endif %}
+			{% include 'partials/site-footer.njk' %}
+		</div><!-- /.js-footer-area -->
+	  </div>	
+	</body>
+</html>
