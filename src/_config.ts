@@ -12,6 +12,7 @@ import feed from "lume/plugins/feed.ts";
 import picture from "./_plugins/picture.ts";
 import imagick from "lume/plugins/imagick.ts";
 import copyright from "./_plugins/copyright.ts";
+import multilanguage from "lume/plugins/multilanguage.ts";
 
 const site = lume({location: new URL("https://yumi.ai/")});
 
@@ -53,6 +54,7 @@ site
       content: "$.post-body",
     }
   }))
+  .use(multilanguage({languages: ["en", "jp"], defaultLanguage: "en" }))
   .copy("assets/js/")  // TODO: copyRemainingFiles() should take care of this.
   .copyRemainingFiles();
   

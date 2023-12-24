@@ -1,11 +1,15 @@
 ---
 # Page settings
+id: default
+lang: jp
+url: /default.html
+
 layout: layouts/default.njk
 keywords: ["Token", "Token Engineering", "EUTxO" ]
 comments: false
 
 # Hero section
-title: Page title
+title: JP Page title
 description: Page description
 
 buttons:

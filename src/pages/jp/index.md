@@ -1,10 +1,14 @@
 ---
 # Page settings
+id: home
+lang: jp
+url: /index.html
+
 layout: layouts/homepage.njk
 keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
-title: Token Flows
+title: JP Token Flows
 description: Token Engineering with EUTxO
 buttons:
     - content: Button
