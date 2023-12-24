@@ -2,7 +2,7 @@
 # Page settings
 id: home
 lang: jp
-url: /index.html
+url: /jp/
 
 layout: layouts/homepage.njk
 keywords: ["Token", "Token Engineering", "EUTxO" ]

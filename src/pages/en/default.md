@@ -2,7 +2,7 @@
 # Page settings
 id: default
 lang: en
-url: /default.html
+url: /default/
 
 layout: layouts/default.njk
 keywords: ["Token", "Token Engineering", "EUTxO" ]
