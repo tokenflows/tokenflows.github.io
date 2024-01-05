@@ -4,7 +4,7 @@ id: home
 lang: jp
 url: /jp/
 
-layout: layouts/homepage.njk
+layout: layouts/index.njk
 keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
