@@ -2,10 +2,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<a href="{% if environment == 'production' %}{{ site.baseurl }}{% endif %}/" class="micro-nav__back">
+				{% if nav.index.content and nav.index.url %}
+				<a href="{{ site.baseurl }}{{nav.index.url}}" class="micro-nav__back">
+					<i class="icon icon--arrow-left"></i>
+					{{nav.index.content}}
+				</a><!-- /.micro-nav__back -->
+				{% else %}
+				<a href="{{ site.baseurl }}" class="micro-nav__back">
 					<i class="icon icon--arrow-left"></i>
 					Back to homepage
 				</a><!-- /.micro-nav__back -->
+				{% endif %}
 			</div><!-- /.col -->
 		</div><!-- /.row -->
 	</div><!-- /.container -->

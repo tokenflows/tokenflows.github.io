@@ -13,8 +13,17 @@ import picture from "./_plugins/picture.ts";
 import imagick from "lume/plugins/imagick.ts";
 import copyright from "./_plugins/copyright.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
+import mdtable from "npm:markdown-it-multimd-table";
+import mdanchor from "npm:markdown-it-anchor";
 
-const site = lume({location: new URL("https://yumi.ai/")});
+const markdown = {
+  plugins: [[mdtable, { multiline: true, rowspan: true }], mdanchor],
+  keepDefaultPlugins: true,
+  options: {
+    html: true,
+  }};
+
+const site = lume({location: new URL("https://yumi.ai/")}, { markdown });
 
 site
   .ignore("README.md", "LICENSE", "CHANGELOG.md", ".gitkeep")
