@@ -19,7 +19,7 @@
   };
 
   outputs = { self, nixpkgs, flake-utils, flake-compat, devenv, ... }@inputs:
-    flake-utils.lib.eachSystem ["aarch64-darwin"] (system: 
+    flake-utils.lib.eachSystem ["aarch64-darwin" "x86_64-darwin"] (system: 
     let
       pkgs = nixpkgs.legacyPackages.${system}; 
       projectRoot = builtins.getEnv "PWD"; # fyi. Impure!
