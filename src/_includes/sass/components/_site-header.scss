@@ -47,7 +47,7 @@
 
 	a {
 		@include link-reset;
-		display: block;
+		display: inline-block;
 		font-size: .875em;
 		font-weight: 500;
 		font-family: $font-family-secondary;
@@ -63,7 +63,13 @@
 			border-color: $color-dark-blue;
 		}
 	}
+	.language {
+	  &:not(:first-child) {
+		margin-left: .1rem;
+	  }
+	} 
 }
+
 
 /* ----- Offcanvas ----- */
 .offcanvas {
