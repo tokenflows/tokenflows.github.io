@@ -6,9 +6,13 @@
 				<a href="{{ site.baseurl }}{{nav.index.url}}" class="micro-nav__back">
 					<i class="icon icon--arrow-left"></i>
 					{{nav.index.content}}
-				</a><!-- /.micro-nav__back -->
+				</a><!-- /.micro-nav__back -->				
 				{% else %}
-				<a href="{{ site.baseurl }}" class="micro-nav__back">
+				  {% if nav.index.url %}
+				    <a href="{{nav.index.url}}" class="micro-nav__back">
+				  {% else %}
+				    <a href="/" class="micro-nav__back">
+				  {% endif %}
 					<i class="icon icon--arrow-left"></i>
 					Back to homepage
 				</a><!-- /.micro-nav__back -->
