@@ -9,15 +9,7 @@ keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
 title: Blog Posts
-description: Todo blog post index.
-
-# Author box
-author:
-    title: cadCAD
-    title_url: 'https://cadcad.org/'
-    external_url: true
-    description: An open-source Python package that assists in the processes of designing, testing and 
-                 validating complex systems through simulation. 
+description: A growing collection of articles that aim to shed light on Token Engineering concepts and how they apply to the EUTxO model.
 
 # Grid navigation
 grid_navigation:
@@ -28,5 +20,6 @@ grid_navigation:
     - title: EUTXO 'Process' Accounting
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfarmiliar to most drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read
-      url: '/posts/eutxoaccounting/'                           
+      url: '/posts/eutxoaccounting/'
+
 ---

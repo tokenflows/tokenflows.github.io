@@ -9,8 +9,8 @@ keywords: ["Token", "Token Engineering", "EUTxO" ]
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: Cards, Maps, Canvases, and Calculators
+description: The design of a token ecosystem requires a structured approach to capture and analyze requirements. This is where tools like Cards, Wardley Maps, Canvases, and Calculators play a pivotal role in developing the vision, strategy, and mechanics of a token model.
 
 buttons:
     - content: Button
@@ -31,14 +31,6 @@ author:
 # Micro navigation
 micro_nav: true
 
-# Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 ---
 
 Write your markdown here ...

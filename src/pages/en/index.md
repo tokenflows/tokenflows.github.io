@@ -13,7 +13,7 @@ description: Token Engineering on EUTxO Blockchains
 buttons:
     - icon: arrow-right
       content: Getting Started
-      url: '/gettingstarted/'
+      url: '/tokenengineering/'
       external_url: false
     - icon: github
       content: Token Flows on Github
@@ -23,9 +23,9 @@ buttons:
 # Author box
 author:
     title: EUTXO Blockchains
-    title_url: '/about/'
+    title_url: 'https://btcpeers.com/cardanos-extended-utxo-model-vs-ethereums-account-based-model/#:~:text=Cardano%20uses%20an%20extended%20unspent,tradeoffs%20of%20each%20blockchain%20network'
     external_url: false
-    description: Token Engineering is agnostic to blockchain architectures, however most people learn by example. Current TE teaching assume Ethereums Balance Account model, we want to change that. 
+    description: Token Engineering is agnostic to blockchain architectures, however most people learn by example. Current TE teaching assume Ethereums Balance Account model, we want to change that.
 
 # Grid navigation
 grid_navigation:
@@ -52,5 +52,5 @@ grid_navigation:
     - title: EUTxO 'Process' Accounting
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfarmiliar to most drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read More
-      url: '/posts/eutxoaccounting/'                            
+      url: '/posts/eutxoaccounting/'
 ---

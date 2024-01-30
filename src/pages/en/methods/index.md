@@ -9,7 +9,7 @@ keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
 title: Token Ecosystem Design Methods
-description: Todo design methods.
+description: A growing collection of design methods and frameworks which aid in developing quality token-economic designs.
 
 # Grid navigation
 grid_navigation:

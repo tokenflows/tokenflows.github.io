@@ -9,7 +9,7 @@ keywords: ["Token", "Token Engineering", "EUTxO" ]
 
 # Hero section
 title: Models
-description: Todo model index description.
+description: Modelling and simulation is a powerful way to test, validate & optimise our designs. If we are to build a network of distributed, connected micro-economies, we need to become proficient in this skill.
 
 # Author box
 author:
