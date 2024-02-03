@@ -14,7 +14,7 @@ description: Modelling and simulation is a powerful way to test, validate & opti
 # Author box
 author:
     title: cadCAD
-    title_url: '/catalyst/f11/resources'
+    title_url: '/catalyst/f11/resources/'
     external_url: true
     description: Learn more about cadCAD (complex adaptive dynamics Computer-Aided Design), the open-source Python library which is a powerful tool to test the behaviour of token systems.
 

@@ -24,7 +24,7 @@ buttons:
 # Author box
 author:
     title: Principles of Token Engineering
-    title_url: '/posts/principlesoftokenengineering'
+    title_url: '/posts/principlesoftokenengineering/'
     external_url: true
     description: Discover the foundational principles that drive the innovative world of Token Engineering, where technology meets economics to shape the future of digital ecosystems.
 

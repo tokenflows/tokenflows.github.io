@@ -2,7 +2,7 @@
 # Page settings
 id: keycomponentsoftokenengineering
 lang: en
-url: '/posts/keycomponentsoftokenengineering'
+url: '/posts/keycomponentsoftokenengineering/'
 
 layout: layouts/default.njk
 keywords: ["Token", "Token Engineering", "EUTxO", "Digital Economy", "Blockchain Technology", "Decentralised Systems", "Innovation"]

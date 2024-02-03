@@ -24,7 +24,7 @@ buttons:
 # Author box
 author:
     title: Let's get started!
-    title_url: '/whatistokenengineering'
+    title_url: '/whatistokenengineering/'
     external_url: true
     description: Join us on this journey to learn Token Engineering. Discover how it's shaping the future of the digital economy and how you can be a part of this transformation.
 

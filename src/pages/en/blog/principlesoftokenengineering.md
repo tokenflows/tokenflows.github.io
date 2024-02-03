@@ -2,7 +2,7 @@
 # Page settings
 id: principlesoftokenengineering
 lang: en
-url: '/posts/principlesoftokenengineering'
+url: '/posts/principlesoftokenengineering/'
 
 layout: layouts/default.njk
 keywords: ["Token", "Token Engineering", "EUTxO", "Digital Economy", "Blockchain Technology", "Decentralised Systems", "Innovation"]
@@ -24,7 +24,7 @@ buttons:
 # Author box
 author:
     title: Key Components of Token Engineering
-    title_url: '/posts/keycomponentsoftokenengineering'
+    title_url: '/posts/keycomponentsoftokenengineering/'
     external_url: true
     description: Dive into the core elements, processes, and aspirations that shape the vibrant landscape of Token Engineering, where digital innovation meets strategic design.
 
