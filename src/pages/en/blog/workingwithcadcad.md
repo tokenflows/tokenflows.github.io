@@ -5,14 +5,12 @@ lang: en
 url: /posts/workingwithcadcad/
 
 layout: layouts/default.njk
-keywords: ["Token", "Token Engineering", "EUTxO" ]
+keywords: ["Token", "Token Engineering", "EUTxO", "Complex Systems Simulation", "Decentralized Finance", "Blockchain Technology", "System Dynamics", "Python Programming", "Adaptive Systems", "Token Economy Modelling", "Open Source Software", "Simulation Tools"]
 comments: false
 
 # Hero section
 title: Modelling and Simulation with cadCAD
-description: cadCAD (complex adaptive dynamics Computer-Aided Design) is an open-source Python library 
-             designed for simulating and analysing token models. It is a powerful tool in token engineering, 
-             allowing us to test the behavior of token systems under various conditions and scenarios.
+description: A crucial task for a Token Engineer is the rigorous testing, validation, and optimisation of token designs. This iterative process is vital to ensure that the token design not only aligns with the expected behaviour but opens avenues for enhancement. By deploying various simulation techniques, valuable insights can be garnered, paving the way for improved token economics.
 
 buttons:
     - content: Button
@@ -25,42 +23,33 @@ buttons:
 
 # Author box
 author:
-    title: About cadCAD
-    title_url: 'https://www.cadcad.org/'
+    title: Project Catalyst Resources
+    title_url: '/catalyst/f11/resources/'
     external_url: true
-    description: cadCAD is a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeping.
+    description: Learn more about cadCAD (complex adaptive dynamics Computer-Aided Design), the open-source Python library which is a powerful tool to test the behaviour of token systems.
 
 # Micro navigation
 micro_nav: true
 
 ---
 
-cadCAD is an open source software used to model and simulate any complex system. It is used to perform 'what-if' analysis on any complex system model. This model has to be written in Python and structured in a standard notebook layout. Jupyter notebooks is what we use but any suitable alternative can be used (e.g. Google Colab). There is plenty of documentation and free bootcamps to learn how to use [cadCAD](https://www.cadcad.org/). While there are other modelling and simulation tools, we have found cadCAD to be the most comprehensive.
+cadCAD (complex adaptive dynamics Computer-Aided Design) stands out as a revolutionary open-source Python library suited to testing, validation, and optimisation. Its popularity in the field of token engineering is largely attributed to its framework, specifically designed to model the intricate dynamics of systems.
 
-A key aspect of Token Engineering is to be able to test, validate and optimise you token design. This is important because we need to see:
+It enables a systematic approach to defining the components and interactions, encompassing state variables, policy functions, and the mechanisms governing agent behaviours and interactions. By enabling the simulation of both deterministic and stochastic processes within systems, cadCAD allows engineers to dissect and understand the complex feedback loops, emergent properties, and potential non-linearities that characterise decentralised networks and token economies.
 
-- Whether our design is behaving as expected (or not)
-- Then improve it
+With its foundations in Python the creation of models structured in a standard notebook layout, with Jupyter notebooks being the preferred environment, are straightforward. Although alternatives like Google Colab can also serve well.
 
-By running different types of simulations we can gain insights and then optimise our design.
+Three pivotal types of simulations facilitated by cadCAD include:
 
-There are three types of simulations we can run:
+1. **Monte Carlo Simulations:** These simulations delve into the randomness and variability inherent in your model, providing a robust framework to account for uncertainty and delineate both best and worst-case scenarios. For instance, in designing a token for a DeFi application, Monte Carlo simulations can shed light on the potential impacts of market volatility on the token's value or user responses to varying reward structures under different market conditions.
+2. **Parameter Sweeps:** This simulation technique explores the relationship between different sets of inputs and their corresponding outputs, aiding in the identification of optimal system parameters. An example can be seen in a DAO's governance token, where parameter sweeps can help ascertain the ideal number of tokens for voting rights or the most effective token distribution model to foster broad participation while ensuring equitable governance.
+3. **A/B Testing:** This comparative approach pits different models against each other to discern the most effective strategy. By experimenting with various incentive mechanisms for a token, such as contrasting a model with high transaction fees and rewards against one with lower fees and rewards, A/B testing can illuminate the balance between network sustainability and user engagement.
 
-1. Monte Carlo simulations are used to test randomness and variability within your model. This is useful to account for uncertainty and analyse best/worst case outcomes.
+As proficiency using cadCAD grows, more sophisticated analyses become feasible, including:
 
-   E.g. Designing a token for a DeFi application. Monte Carlo simulations can be used to predict how market volatility might impact the token's value or how users might react to different reward structures under various market conditions.
+- Machine learning-supported sensitivity analysis, which is instrumental in decision-making processes for large simulations that may be challenging to analyse directly.
+- The comparison of simulation results with historical data or comparable token systems, enhancing confidence in the model's accuracy.
+- The use of radCAD, an extension of cadCAD, for enhanced simulation performance.
+- The development of a cadCAD web front-end using Plotly's Dash. This helps with the creation of interactive web applications where simulations can be executed directly in the browser, enhancing user engagement and accessibility.
 
-2. Parameter sweeps are a way to see which set of inputs provide what set of outputs. This is useful to set optimal parameters for your system e.g. pledge and pool margin fee for your stake pool.
-
-   E.g Consider a token used for governance in a DAO. By performing parameter sweeps, we can determine the ideal number of tokens required for voting rights, or the optimal token distribution model that encourages widespread participation while maintaining fair governance.
-
-1. A/B testing is used to compare different models to each other.
-
-   E.g Experimenting different incentive mechanisms for a token, we can create two models: one with a high transaction fee and high rewards, and another with lower fees and rewards. A/B testing these models can help identify which structure better balances network sustainability with user participation.
-
-More sophisticated analysis can be done too, once the basics have been developed. We can use cadCAD for things such as:
-
-- Machine learning supported sensitivity analysis - useful for decision making in large simulations which can be difficult to directly analyse
-- Compare simulation results to real historical data - giving further confidence in model
-- Using radCAD (built upon cadCAD) for increased simulation performance
-- Create a cadCAD web front-end using Plotly's Dash. This is pretty cool as you can create an interactive web application where simulations can run in the browser.
+The creation of cadCAD is attributed to a community of dedicated developers and system thinkers committed to advancing the field of complex system simulation and analysis. Whether you're a seasoned token engineer or new to the field, cadCAD offers a robust platform for exploring, testing, and refining token systems and complex adaptive dynamics with precision and clarity.
