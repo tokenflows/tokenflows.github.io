@@ -41,8 +41,8 @@ grid_navigation:
       excerpt: Unleash the power of token engineering with cadCAD's advanced simulation capabilities. Elevate your Cardano projects with skills to do complex system modelling. Click here to embark on your journey to mastering token economies with cadCAD now!
       cta: Learn cadCAD
       url: '/posts/workingwithcadcad'
-    - title: Cards, Maps, Canvases, and Calculators
-      excerpt: The design of a token ecosystem requires a structured approach to capture and analyze requirements. This is where tools like Cards, Wardley Maps, Canvases, and Calculators play a pivotal role in developing the vision, strategy, and mechanics of a token model.
+    - title: Designing Tokenomics with Canvases, Cards, Maps and Calculators
+      excerpt: Uncover the power of Canvases, Cards, Maps, and Calculators in crafting innovative token models that resonate with real-world needs. Join us as we begin shaping platforms that redefine collaboration, governance, and value creation.
       cta: More on Design Methods
       url: '/methods/cardsandcanvases/'
     - title: Developing a Cardano Stakepool cadCAD Model
