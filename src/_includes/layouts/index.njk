@@ -5,6 +5,7 @@
 	</head>
 	<body class="{{ doks.color_theme }}">
 	  <div class="page_container">
+		{% include 'partials/site-header.njk' %}
 		<div class="hero-subheader{% if grid_navigation %} hero-subheader--before-out{% endif %}">
 			<div class="container">
 				<div class="row">
@@ -88,6 +89,9 @@
 				</div><!-- /.container -->
 			</div><!-- /.section -->
 		{% endif %}
+		{% if micro_nav == true %}
+		  {% include 'partials/micro-nav.njk' %}
+	    {% endif %}
 		{% include 'partials/site-footer.njk' %}
 	  </div>
 	</body>
