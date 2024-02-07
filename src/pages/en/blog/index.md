@@ -30,4 +30,7 @@ grid_navigation:
       cta: Read
       url: '/posts/eutxoaccounting/'
 
+# Micro navigation
+micro_nav: true
+
 ---

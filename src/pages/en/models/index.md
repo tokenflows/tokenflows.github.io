@@ -24,4 +24,8 @@ grid_navigation:
       excerpt: Cardano uses a Proof-of-Stake (PoS) system to secure the settlement layer of the network. To optimise and understand the dynamics of running a Cardano stakepool, we are designing a cadCAD model of Cardano's Stake-pool incentives.
       cta: Help us
       url: '/models/stakepoolmodel/'
+
+# Micro navigation
+micro_nav: true
+
 ---

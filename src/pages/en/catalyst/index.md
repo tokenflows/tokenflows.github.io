@@ -18,6 +18,10 @@ author:
     external_url: true
     description: Cardano's Project Catalyst is the world’s largest decentralized innovation engine for solving real-world challenges. 
 
+# Page navigation
+# Micro navigation
+micro_nav: true
+
 # Grid navigation
 grid_navigation:
     - title: Modelling and simulation of token economic systems
