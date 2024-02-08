@@ -39,7 +39,7 @@ site
   .use(resolveUrls())
   .use(picture())
   .use(imagick({extensions: [".webp",".jpg", ".jpeg", ".png"]}))
-  .use(copyright({ message: "2023 © This code belongs to yūmi labs litd."}))
+  .use(copyright({ message: "Copyright © 2024 tokenflows All Rights Reserved."}))
   .use(pageFind({
     ui: {
       resetStyles: false,

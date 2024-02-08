@@ -5,7 +5,7 @@ header:
         image: 'layout/logo.png'
     nav:
         - item_name: Blog
-          item_url: '/posts/'
+          item_url: '/blog/'
         - item_name: Methods
           item_url: '/methods/'
         - item_name: Models

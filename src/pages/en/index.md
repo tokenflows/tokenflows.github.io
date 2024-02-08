@@ -49,7 +49,7 @@ grid_navigation:
       excerpt: Unlock the power of Cardano for your community! Learn the art of token engineering with our latest guide and start building fair, impactful tokenomics today. Click to master the future of decentralized finance.
       cta: Let's go!
       url: '/models/stakepoolmodel/'
-    - title: EUTxO 'Process' Accounting
+    - title: eUTXO and Token Engineering
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfamiliar to most, drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read More
       url: '/posts/eutxoaccounting/'

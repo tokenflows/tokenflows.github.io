@@ -2,7 +2,7 @@
 # Page settings
 id: blog
 lang: en
-url: /posts/
+url: /blog/
 
 layout: layouts/index.njk
 keywords: ["Token", "Token Engineering", "EUTxO", "Digital Economy", "Blockchain Technology", "Decentralised Systems", "Innovation", "cadCAD", "Modelling and Simulation"]
@@ -25,7 +25,7 @@ grid_navigation:
       excerpt: 'Join us on this journey to learn Token Engineering. Start here by understanding the core components.'
       cta: Learn More
       url: '/posts/keycomponentsoftokenengineering'
-    - title: EUTXO 'Process' Accounting
+    - title: eUTXO and Token Engineering
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfarmiliar to most drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read
       url: '/posts/eutxoaccounting/'
