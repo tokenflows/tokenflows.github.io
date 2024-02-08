@@ -4,6 +4,7 @@
 
 ### Deno / Lume Generated Files ###
 site/
+src/_site
 src/_cache/
 .deno/
 

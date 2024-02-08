@@ -4,6 +4,11 @@
   },
   "lock": false,
   "tasks": {
+
+    "build_gh": "deno task --cwd src lume_gh",
+    "serve_gh": "deno task --cwd src lume_gh -s",
+    "lume_gh": "echo \"import 'lume/cli.ts'\" | deno run --unstable -A -",
+
     "build": "deno task --cwd \"$INIT_CWD\" lume-run",
     "serve": "deno task --cwd \"$INIT_CWD\" lume-run -s",
     "dev": "deno task --cwd \"$INIT_CWD\" lume-run --dev --serve",

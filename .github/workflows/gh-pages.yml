@@ -1,7 +1,9 @@
 on:
   push:
     branches: [ main ]
-
+  workflow_dispatch:
+     branches: [ main ]
+     
 permissions:
   contents: read
   pages: write
@@ -18,10 +20,10 @@ jobs:
       - name: Setup Deno environment
         uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.x
+          deno-version: v1.36
 
       - name: Build site
-        run: deno task build
+        run: deno task build_gh
       
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -29,7 +31,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: '_site'
+          path: 'src/_site'
 
       - name: Deploy to GitHub Pages
         id: deployment

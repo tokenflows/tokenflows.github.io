@@ -23,7 +23,7 @@ const markdown = {
     html: true,
   }};
 
-const site = lume({location: new URL("https://yumi.ai/")}, { markdown });
+const site = lume({location: new URL("https://tokenflows.xyz/")}, { markdown });
 
 site
   .ignore("README.md", "LICENSE", "CHANGELOG.md", ".gitkeep")
