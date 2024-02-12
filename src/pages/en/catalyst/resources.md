@@ -1,6 +1,6 @@
 ---
 # Page settings
-id: projectcatalystresources
+id: cadcadresources
 lang: en
 url: /catalyst/f11/resources/
 
@@ -10,7 +10,7 @@ keywords: ["Token", "Token Engineering", "EUTxO", "Simulation", "Data Tools", "M
 comments: false
 
 # Hero section
-title: Project Catalyst Resources
+title: cadCAD Resources
 description: For those diving for the first time into the pool of knowledge about token engineering and complex system modelling, cadCAD stands out as an indispensable resource. cadCAD, which stands for complex adaptive dynamics Computer-Aided Design, is a Python-based framework that aids in the design, simulation, validation, and operation of complex systems. It is particularly tailored for exploring "what if" scenarios, allowing users to simulate the impact of various actions on a system to make informed decisions.
 
 # Author box
