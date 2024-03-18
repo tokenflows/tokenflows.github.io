@@ -19,10 +19,10 @@ footer:
             image: 'layout/logo-footer.png'
     social_list:
         - network_name: x
-          profile_url: 'https://twitter.com/tokenflows'
+          profile_url: 'https://twitter.com/TKflows'
         - network_name: youtube
           profile_url: 'https://www.youtube.com/@tokenflows'
-        - network_name: github
+        - network_name: github 
           profile_url: 'https://github.com/tokenflows'  
 google_analytics:
     tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
