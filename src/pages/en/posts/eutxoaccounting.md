@@ -12,8 +12,8 @@ comments: false
 title: eUTXO and Token Engineering
 description: Cardano's Extended Unspent Transaction Output (EUTXO) model
              extends Bitcoins underlying process UTXO accounting methodology.
-             However the EUTXO is unfarmiliar to most drawing parallels with
-             the REA (Resource-Event-Agent) accounting ontology we compare and
+             However, the EUTXO is unfamiliar to most, drawing parallels with
+             the REA (Resource-Event-Agent) accounting ontology, we compare and
              contrast the Ethereum balance accounting model.
 
 # Author box
@@ -23,8 +23,8 @@ author:
     external_url: true
     description: Cardano is an extended Unspent Transaction Output (EUTXO)
                  blockchain, that usess a Bitcoin-based ledger accounting
-                 model. Unlike the account-blanace model used in Etherum, the
-                 eUTXO maps directly to the REA Accounting ontology (ISO
+                 model. Unlike the account-balance model used in Ethereum, the
+                 eUTXO maps directly to the REA accounting ontology (ISO
                  15944-4).
 
 # Micro navigation
@@ -36,13 +36,13 @@ nav:
         content: Back to our blog
         url: '/blog/'
 ---
-Accounting systems rule the economic world so understanding them through from the perspective of blockchains and token engineering is important. Blockchain technology offers a secure digital native approach to transaction execution and record-keeping. An approach this network native and can transcent organisational islands. To do this, two primary ledger models serve as the backbone into a digital economy transformation.
+Accounting systems rule the economic world so understanding them through from the perspective of blockchains and token engineering is important. Blockchain technology offers a secure digital native approach to transaction execution and record-keeping. An approach that is network native and can transcend organisational islands. To do this, two primary ledger models serve as the backbone into a digital economy transformation.
 
  Ethereum's account-based model takes inspiration from traditional accounting systems, specifically the General Ledger approach, where each account reflects the current financial state of an organisation through a continuous balance update mechanism. This model emphasises a single agregate view of an entity's financial status at any given moment, akin to the snapshot provided by a conventional income statement in accounting. In Ethereum's case that snapshot is the entire network.
 
 On the other side, we have Cardano's Extended Unspent Transaction Output (eUTXO) model, an evolution of Bitcoin's original UTXO framework. The eUTXO model retains the essence of Bitcoin while incorporating additional features to support more complex transactions, constrained by validation rules. The eUTXO accounting approach enables different perspectives on transaction processing, focusing on the individual transactions themselves rather than single cumulative state of accounts.
 
-To bridge the conceptual gap between these blockchain models and traditional financial accounting, we can turn to the [REA (Resource-Event-Agent) accounting ontology](https://en.wikipedia.org/wiki/Resources,_Events,_Agents) accounting ontology. REA provides a structured language to analyse economic transactions by identifying the *Resources* involved, the *Events* that change *Resource* states, and the *Agents* that initiate or are affected by these *Events*. By applying the REA ontology to blockchain technologies, we gain a clearer understanding of how these digital ledger models mirror, diverge from, and potentially enhance traditional accounting practices.
+To bridge the conceptual gap between these blockchain models and traditional financial accounting, we can turn to the [REA (Resource-Event-Agent) accounting ontology](https://en.wikipedia.org/wiki/Resources,_Events,_Agents). REA provides a structured language to analyse economic transactions by identifying the *Resources* involved, the *Events* that change *Resource* states, and the *Agents* that initiate or are affected by these *Events*. By applying the REA ontology to blockchain technologies, we gain a clearer understanding of how these digital ledger models mirror, diverge from, and potentially enhance traditional accounting practices.
 
 ### Understanding Ethereum's Account-Based Model
 
@@ -60,9 +60,9 @@ However, this model also implies that transactions must be processed sequentiall
 
 ![EUTXO Account Model](/assets/images/eutxo.png)
 
-The [Extended Unspent Transaction Output (eUTXO) model](https://docs.cardano.org/learn/eutxo-explainer/), used in Cardano, marks a significant departure from Ethereum's account-based system, building on the foundational principles of Bitcoin's UTXO model while introducing greater flexibility and complexity. In the eUTXO model, the ledger doesn't track account balances; instead, it maintains a set of Unspent Outputs (UTXOs), each representing a slice of one or more digital assets that have not been spent.
+The [Extended Unspent Transaction Output (eUTXO) model](https://docs.cardano.org/learn/eutxo-explainer/), used in Cardano, marks a significant departure from Ethereum's account-based system, building on the foundational principles of Bitcoin's UTXO model while introducing greater flexibility and complexity. In the eUTXO model, the ledger doesn't track account balances; instead, it maintains a set of Unspent Transaction Outputs (UTXOs), each representing a slice of one or more digital assets that have not been spent.
 
-A UTXO in the Cardano ecosystem can carry multiple types of asset units that represent together a total unit of value. The containing transaction can and also support data and validation logic, extending the capabilities of traditional UTXO models to support more sophisticated transactions and agreements. This feature allows for the creation of complex smart contracts that can interact with multiple assets in multiple UTXOs across multiple transactions, making the system highly adaptable to a wide range of decentralized applications.
+A UTXO in the Cardano ecosystem can carry multiple types of asset units that represent together a total unit of value. The containing transaction can and does support data and validation logic, extending the capabilities of traditional UTXO models to support more sophisticated transactions and agreements. This feature allows for the creation of complex smart contracts that can interact with multiple assets in multiple UTXOs across multiple transactions, making the system highly adaptable to a wide range of decentralized applications.
 
 One of the critical advantages of the eUTXO model is its inherent parallelism. Since transactions consume and produce distinct UTXOs, many transactions can be processed simultaneously, provided they don't attempt to spend the same UTXO. This characteristic significantly enhances the scalability of the Cardano network, allowing it to handle a higher volume of real transactions compared to systems where transactions must be processed in a strict sequence. It also enables seamless partitioning of the UTXO graph to increase the total network transaction through-put and privacy.
 
@@ -75,7 +75,7 @@ Overall, Cardano's eUTXO model offers a blend of flexibility, scalability, and s
 
 Using the [*REA (Resource-Event-Agent)* accounting ontology](https://en.wikipedia.org/wiki/Resources,_Events,_Agents) we can compare and contrast the eUTXO model of Cardano and Ethereum's account-based model. The General-Ledger model assumes a single entity is in control of the accounts, the system state, and is only interested in a single perspective of that state. REA on the other hand assumes there are multiple *Agents* all with different interests and perspectives on the *Events* and shared system state, or *Resources*. REA applies a *process, or flow,* perspective to accounting events. Each *Agent* such as a buyer and seller, for example, will have a different perspective of a single transaction. By breaking down economic transactions into [*Resources, Events, and Agents*](https://en.wikipedia.org/wiki/Resources,_Events,_Agents), the REA framework offers a structured approach to understanding how these blockchain models handle economic activities.
 
-In Ethereum's account-based model, *Resources* can be equated to the balances within accounts, representing the digital assets under control. *Events* in this context are transactions that modify these balances, whether through transfers, smart contract executions, or other state-changing operations. *Agents* are the account holders or smart contracts initiating or participating in these transactions. The account-based model's continuous state tracking aligns with the REA ontology by providing a clear view of *Resource* states (balances) and their evolution over time through various *Events* (transactions). However the account-based model presumes a single view over of that state thereby negating REA's flexibility to provide alternative views of the *Resource* state.
+In Ethereum's account-based model, *Resources* can be equated to the balances within accounts, representing the digital assets under control. *Events* in this context are transactions that modify these balances, whether through transfers, smart contract executions, or other state-changing operations. *Agents* are the account holders or smart contracts initiating or participating in these transactions. The account-based model's continuous state tracking aligns with the REA ontology by providing a clear view of *Resource* states (balances) and their evolution over time through various *Events* (transactions). However, the account-based model presumes a single view over of that state thereby negating REA's flexibility to provide alternative views of the *Resource* state.
 
 Conversely, the eUTXO model directly embodies the decentralised REA principles. Each UTXO represents a *Resource*. Transactions in the eUTXO model are *Events* that consume existing UTXOs and produce new ones, reflecting changes in *Resource* ownership and state. Encapsulating not just simple value flows but potentially complex data and logic. *Agents* in this model are the entities that own UTXOs or smart contracts validation rules that dictate the conditions under which UTXOs can be transferred.
 
@@ -115,4 +115,4 @@ Our brief tour of Ethereum's account-based model and Cardano's eUTXO model point
 
 The account-based model's intuitive representation of state changes and its alignment with conventional accounting systems make it a poor foundation for real-word decentralised applications. Challenges with scalability and sequential processing highlight the need for ongoing innovation and optimisation, as seen in the development of Ethereum 2.0 and other scalability solutions.
 
-Conversely, the eUTXO model's emphasis on transaction independence, parallel processing, and the ability to embed complex logic within transactions offers a different vision for the future of decentralised applications, accounting systems and finance. Its potential to facilitate advanced token engineering and scalable dApps positions it as a driver of real-world blockchain innovation, paving the way for new applications and use cases. As technology evolves, the continued exploration and refinement of these models will be crucial in unlocking blockchain's full potential. We believe Token engineering practise should be extended to include a broader understanding of REA, and the eUTXO potential in the design of token systems and economies.
+Conversely, the eUTXO model's emphasis on transaction independence, parallel processing, and the ability to embed complex logic within transactions offers a different vision for the future of decentralised applications, accounting systems and finance. Its potential to facilitate advanced token engineering and scalable dApps positions it as a driver of real-world blockchain innovation, paving the way for new applications and use cases. As technology evolves, the continued exploration and refinement of these models will be crucial in unlocking blockchain's full potential. We believe Token Engineering practise should be extended to include a broader understanding of REA, and the eUTXO potential in the design of token systems and economies.
