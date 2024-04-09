@@ -29,6 +29,18 @@ grid_navigation:
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfarmiliar to most drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read
       url: '/posts/eutxoaccounting/'
+    - title: 'Episode 1: Proof-of-Stake on Cardano'Intro to token engineering notes
+      excerpt: What is proof of stake and how does it relate to the Cardano blockchain.
+      cta: Read
+      url: "/posts/proofofstakeoncardano/"
+    - title: "EP2: Selecting a Stake Pool on Cardano"
+      excerpt: How to go about selecting a stake pool on Cardano
+      cta: Read
+      url: "/posts/selectingstakepooloncardano/"
+    - title: "Episode 3: Decentralisation"
+      excerpt: What is decentralisation? Lets understand this a little more!
+      cta: Read
+      url: "/posts/decentralisation/"
 
 # Micro navigation
 micro_nav: true

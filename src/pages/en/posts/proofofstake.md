@@ -117,3 +117,20 @@ Ka kite anō au I a koe and i’ll see you in the next one.
 Cardano Simply Explained:  https://www.youtube.com/watch?v=Do8rHvr65ZA&t=4s
 
 ---
+
+## Support ❤️
+
+Follow me on twitter and paetreon!
+
+Twitter: https://twitter.com/atmetaphor  
+
+Paetreon: https://www.patreon.com/user?u=40044108
+
+and if you like the content and want to support me you can always send me some Ada :D
+
+ADA: addr1qyzl4u7c0299h85unkmd4ap2z7mvcyex3kn3ffecjxrwdw
+32gqhx3vvnf7r92epv3qtjh9rl4qfl33kmgvrdj04h0z3qstlnes
+
+BTC: 3GJpGhAHn1ewpiSBonp2JXRxCYmn8XAGYb
+
+ETH: 0xdFF5eD012135B0eC71Bc436F90F7fB6A8bE93934
