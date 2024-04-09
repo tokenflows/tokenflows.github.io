@@ -28,7 +28,7 @@
         inherit inputs pkgs;
         modules = [
           ({ config, pkgs, ... }: {
-            packages = [ pkgs.deno pkgs.ponysay ];
+            packages = [ pkgs.deno pkgs.ponysay pkgs.crowdin-cli ];
             scripts.lume.exec = "${pkgs.deno}/bin/deno task $1";
             env = {
               DENO_DIR="${projectRoot}/.deno";
