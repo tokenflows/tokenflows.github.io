@@ -42,7 +42,7 @@ I'll be covering Cardano a lot in this channel, but for my first one, I thought 
 
 Before getting into some of the details, lets do a quick recap on Blockchains and their central idea.
 
-![](/assets/images/gif/ep1/laptop_and_phone_2.gif)
+![](src/assets/images/gif/ep1/laptop_and_phone_2.gif)
 
 Wallet software on your laptop or smartphone creates transactions to spend or transfer funds. Full-nodes in the network receive the new transactions. These nodes validate the transactions then send them onto other peers. Depending on the rules of block production, the node may produce a new block that aggregates all new transactions together and links to a prior block. Eventually, new blocks propagate through the full-nodes in the network and a network-wide consensus forms over which blocks are authoritative. 
 
