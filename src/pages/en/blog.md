@@ -33,7 +33,7 @@ grid_navigation:
       excerpt: What is proof of stake and how does it relate to the Cardano blockchain.
       cta: Read
       url: "/posts/proofofstakeoncardano/"
-    - title: "EP2: Selecting a Stake Pool on Cardano"
+    - title: "Episode 2: Selecting a Stake Pool on Cardano"
       excerpt: How to go about selecting a stake pool on Cardano
       cta: Read
       url: "/posts/selectingstakepooloncardano/"
