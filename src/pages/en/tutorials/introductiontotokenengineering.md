@@ -75,7 +75,7 @@ Every institution, every market, will possess different transaction costs and pr
 
 ## Market design and incentives
 
-The world of economics, as we now understand, is a dynamic web of interactions, shaped by networks, individual choices, and the very rules that govern them. Token exchanges, popularised by the book Radical Markets and initiatives like RadicalXhange, offer a revolutionary tool for economic transformation, with the power to reshape incentives at their core.
+The world of economics, as we now understand, is a dynamic web of interactions, shaped by networks, individual choices, and the very rules that govern them. Token exchanges, popularised by the book Radical Markets and initiatives like [RadicalXchange](https://www.radicalxchange.org/), offer a revolutionary tool for economic transformation, with the power to reshape incentives at their core.
 
 Imagine a world where value isn't just about cold hard currency. Carefully designed tokens can embody so much more – rights to access services, tiny slices of ownership, democratising assets once reserved for the wealthy.
 
