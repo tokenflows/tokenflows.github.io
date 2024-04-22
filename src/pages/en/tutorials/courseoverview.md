@@ -5,26 +5,25 @@ lang: en
 url: /tutorials/courseoverview/
 
 layout: layouts/default.njk
-keywords: ["Token", "Token Engineering", "EUTxO", "Tutorial", "Data Tools", "DeFi", "SDK", "Education", "Standards", "Regulation", "Video series" ]
+keywords: ["Token", "Token Engineering", "EUTxO", "Tutorial", "Data Tools", "DeFi", "SDK", "Education", "Standards", "Regulation", "Video series", "Cardano" ]
 
 comments: false
 
 # Hero section
 title: "Course Overview"
-description: "An outline of the topics discussed in our five-part tutorial series - Token Engineering on Cardano: Step-by-step tutorials to design economic mechanisms."
+description: "An outline of the topics discussed in each part of our five-part tutorial series."
 
 # Author box
-# author:
-#     title: Catalyst Submissions
-#     title_url: '/catalyst/'
-#     external_url: true
-#     description: View our proposals for Cardano Project Catalsyst Fund 11.
+author:
+    title: Course Introduction
+    title_url: '/tutorials/courseintroduction/'
+    external_url: true
+    description: "A short introduction to our five-part tutorial series - Token Engineering on Cardano: Step-by-step tutorials to design economic mechanisms."
 
 # Micro navigation
 micro_nav: true
 
 ---
-
 
 ### Module 1 - **Introduction to Token Engineering**
 

@@ -46,7 +46,7 @@ grid_navigation:
       cta: More on Design Methods
       url: '/methods/cardsandcanvases/'
     - title: Developing a Cardano Stakepool cadCAD Model
-      excerpt: Unlock the power of Cardano for your community! Learn the art of token engineering with our latest guide and start building fair, impactful tokenomics today. Click to master the future of decentralized finance.
+      excerpt: Unlock the power of Cardano for your community! Learn the art of token engineering with our latest guide and start building fair, impactful tokenomics today. Click to master the future of decentralised finance.
       cta: Let's go!
       url: '/models/stakepoolmodel/'
     - title: eUTXO and Token Engineering
@@ -54,7 +54,15 @@ grid_navigation:
       cta: Read More
       url: '/posts/eutxoaccounting/'
     - title: Token Engineering Tutorials - Course Overview
-      excerpt: "An outline of topics covered in our Token Engineering on Cardano tutorial series: Step-by-step tutorials to design economic mechanisms"
+      excerpt: "Outline of the topics covered in our Token Engineering on Cardano tutorial series: Step-by-step tutorials to design economic mechanisms."
       cta: See Details
       url: '/tutorials/courseoverview/'
+    - title: Token Engineering Tutorials - Course Introduction
+      excerpt: "Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies."
+      cta: Learn More
+      url: '/tutorials/courseintroduction/'
+    - title: Module 1 - Introduction to Token Engineering
+      excerpt: "Learn the fundamental concepts of token engineering, its importance in digital economic systems, and why it matters."
+      cta: Learn More
+      url: '/tutorials/module1/'
 ---
