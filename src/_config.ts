@@ -64,7 +64,7 @@ site
       content: "$.post-body",
     }
   }))
-  .use(multilanguage({languages: ["en", "jp"], defaultLanguage: "en" }))
+  .use(multilanguage({languages: ["en", "ja"], defaultLanguage: "en" }))
   .copy("assets/js/")  // TODO: copyRemainingFiles() should take care of this.
   .copyRemainingFiles();
   
