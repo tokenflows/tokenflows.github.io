@@ -15,6 +15,12 @@ files: [
     "translation": "/src/pages/%two_letters_code%/posts/**/%original_file_name%"   # where translations are stored
  },
 
+ {
+    "source": "/src/pages/en/tutorials/**/*.md",                                       # source files filter
+    "translation": "/src/pages/%two_letters_code%/tutorials/**/%original_file_name%"   # where translations are stored
+ },
+
+
  # {
  #   "source": "/src/pages/en/posts/**/*.md",                                       # source files filter
  #   "translation": "/src/pages/%two_letters_code%/posts/**/%original_file_name%"   # where translations are stored
