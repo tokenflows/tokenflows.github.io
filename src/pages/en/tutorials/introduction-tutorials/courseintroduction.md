@@ -2,7 +2,7 @@
 # Page settings
 id: courseintroduction
 lang: en
-url: /tutorials/introduction-tutorials/courseintroduction/
+url: /tutorials/introduction-tutorials/introduction/
 
 layout: layouts/default.njk
 keywords: ["Token", "Token Engineering", "EUTxO", "Tutorial", "Data Tools", "DeFi", "SDK", "Education", "Standards", "Regulation", "Video series", "Cardano" ]
@@ -24,6 +24,7 @@ author:
 micro_nav: true
 
 ---
+@[youtube](H97lLRlk28U)
 
 ## **Designing Robust Economic Systems**
 

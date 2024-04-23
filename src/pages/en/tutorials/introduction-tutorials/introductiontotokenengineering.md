@@ -16,7 +16,7 @@ description: "Module 1: Introduction to Token Engineering, is the first part of 
 # Author box
 author:
     title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/courseintroduction/'
+    title_url: '/tutorials/introduction-tutorials/introduction/'
     external_url: true
     description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
 
@@ -27,9 +27,10 @@ micro_nav: true
 nav:
     index:
         content: Back the tutorial series overview
-        url: '/tutorials/introduction-tutorials/courseintroduction/'
+        url: '/tutorials/introduction-tutorials/introduction/'
 
 ---
+@[youtube](H97lLRlk28U)
 
 ## Token Engineering
 
