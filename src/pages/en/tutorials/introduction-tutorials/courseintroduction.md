@@ -24,7 +24,7 @@ author:
 micro_nav: true
 
 ---
-@[youtube](H97lLRlk28U)
+@[youtube](a2dhSnp3RYI)
 
 ## **Designing Robust Economic Systems**
 

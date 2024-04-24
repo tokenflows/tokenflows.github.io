@@ -26,7 +26,7 @@ author:
   description: 5 部構成のチュートリアル シリーズの最初の部分です。
 micro_nav: true
 ---
-@[youtube](H97lLRlk28U)
+@[youtube](a2dhSnp3RYI)
 
 ## **堅牢な経済システムの設計**
 

@@ -30,7 +30,7 @@ nav:
     content: チュートリアルシリーズの概要に戻る
     url: /ja/tutorials/introduction-tutorials/introduction/
 ---
-@[youtube](H97lLRlk28U)
+@[youtube](ZDZzegDbw1c)
 
 ## トークンエンジニアリング
 
