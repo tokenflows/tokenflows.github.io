@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 tokenflows <https://tokenflows.xyz/>
+#
+# SPDX-License-Identifier: Apache-2.0
+
 {
   description = "Development environment for working with the yūmi.ai website. test";
   inputs = {

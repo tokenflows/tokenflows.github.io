@@ -43,7 +43,7 @@ I've linked to it and the Daelalus Wallet software along with other resources me
 
 A Wallet is a public and private key pair. A pair of "magic" cryptographic numbers that help identify, protect, and sign transactions in the network. A Wallet application is a bit of software that helps you manage these cryptographic keys. Since crypto-currency holdings can represent significant value, good practice includes using a hardware wallet— a small physical device specifically engineered to manage private keys. It's the private keys which enable you to spend tokens and perform other tasks so these need to be handled with care. Cardano's best known wallet applications are Daedalus and Yoroi.  
 
-![](/assets/images/gif/ep2/Daedalus_yoroi_master.gif)
+![](/gif/ep2/Daedalus_yoroi_master.gif)
 
 Wallet applications to date have focused on Crypto-currencies; but as the use of tokens, certificates, and smart-contracts become more prevalent in the coming years, wallet software will help manage different processes.You can see this evolution in the Daedalus's delegation center, the features of the  application that help you delegate your Ada stake. 
 

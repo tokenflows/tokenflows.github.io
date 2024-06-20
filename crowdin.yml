@@ -1,0 +1,33 @@
+# Crowdin credentials
+"project_id": "662900"
+"api_token_env": "CROWDIN_API_TOKEN" # Set in .enrc.local in a parent directory. 
+"base_path": "."
+"base_url": "https://api.crowdin.com"
+# Map the file structure onto Crowdin e.g. true or false. Currently set to false 
+# To make it easier for translators to find and work with the files we are 
+# Translating.
+"preserve_hierarchy": false
+
+# Files configuration
+files: [
+ {
+    "source": "/src/pages/en/posts/**/eutxoaccounting.md",                                       # source files filter
+    "translation": "/src/pages/%two_letters_code%/posts/**/%original_file_name%"   # where translations are stored
+ },
+
+ {
+    "source": "/src/pages/en/tutorials/**/*.md",                                       # source files filter
+    "translation": "/src/pages/%two_letters_code%/tutorials/**/%original_file_name%"   # where translations are stored
+ },
+
+
+ # {
+ #   "source": "/src/pages/en/posts/**/*.md",                                       # source files filter
+ #   "translation": "/src/pages/%two_letters_code%/posts/**/%original_file_name%"   # where translations are stored
+ # },
+ # {
+ #   "source": "/tutorials/video/en/**/*.srt",                                      # source files filter
+ #   "translation": "/tutorials/video/%two_letters_code%/**/%original_file_name%"   # where translations are stored
+ # },
+
+]
