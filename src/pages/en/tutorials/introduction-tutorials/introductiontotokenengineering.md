@@ -11,14 +11,14 @@ comments: false
 
 # Hero section
 title: "Introduction to Token Engineering"
-description: "Module 1: Introduction to Token Engineering, is the first part of our five-part tutorial series covers fundamental concepts of token engineering, its importance in digital economic systems, and why it matters."
+description: "Module 1: Introduction to Token Engineering, is the first part of our five-part tutorial series. Covering fundamental concepts of token engineering, its importance in digital economic systems, and why it matters."
 
 # Author box
 author:
-    title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/introduction/'
+    title: "Market Design"
+    title_url: '/tutorials/introduction-tutorials/module2/'
     external_url: true
-    description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
+    description: Second part of our five-part tutorial series.
 
 # Micro navigation
 micro_nav: true
@@ -26,7 +26,7 @@ micro_nav: true
 # Page navigation
 nav:
     index:
-        content: Back the tutorial series overview
+        content: Back to tutorial series overview
         url: '/tutorials/introduction-tutorials/introduction/'
 
 ---

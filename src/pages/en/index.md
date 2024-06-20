@@ -29,6 +29,14 @@ author:
 
 # Grid navigation
 grid_navigation:
+    - title: Introduction to Token Engineering Tutorial
+      excerpt: "Learn the fundamental concepts of token engineering, its importance in digital economic systems, and why it matters."
+      cta: Learn More
+      url: '/tutorials/introduction-tutorials/module1/'
+    - title: Market Design Tutorial
+      excerpt: "Discover how markets function, their role in cryptoeconomic systems, and how well designed markets can be used as a tool for social good."
+      cta: Learn More
+      url: '/tutorials/introduction-tutorials/module2/'
     - title: What is Token Engineering?
       excerpt: Join us on this journey to learn Token Engineering. Discover how it's shaping the future of the digital economy and how you can be a part of this transformation. Click here to learn more.
       cta: Learn More
@@ -46,7 +54,7 @@ grid_navigation:
       cta: More on Design Methods
       url: '/methods/cardsandcanvases/'
     - title: Developing a Cardano Stakepool cadCAD Model
-      excerpt: Unlock the power of Cardano for your community! Learn the art of token engineering with our latest guide and start building fair, impactful tokenomics today. Click to master the future of decentralized finance.
+      excerpt: Unlock the power of Cardano for your community! Learn the art of token engineering with our latest guide and start building fair, impactful tokenomics today. Click to master the future of decentralised finance.
       cta: Let's go!
       url: '/models/stakepoolmodel/'
     - title: eUTXO and Token Engineering

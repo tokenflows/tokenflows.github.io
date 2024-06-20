@@ -16,9 +16,10 @@ import multilanguage from "lume/plugins/multilanguage.ts";
 import mdtable from "npm:markdown-it-multimd-table";
 import mdanchor from "npm:markdown-it-anchor";
 import mdvideo from "npm:markdown-it-video";
+import mdfootnote from "npm:markdown-it-footnote";
 
 const markdown = {
-plugins: [[mdtable, { multiline: true, rowspan: true }], mdanchor, [mdvideo, {youtube: { width: 640, height: 360 }}]],
+plugins: [[mdtable, { multiline: true, rowspan: true }], mdfootnote, mdanchor, [mdvideo, {youtube: { width: 640, height: 360 }}]],
 keepDefaultPlugins: true,
   options: {
     html: true,
