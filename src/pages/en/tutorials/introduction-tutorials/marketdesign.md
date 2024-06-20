@@ -66,21 +66,21 @@ The key takeaway here is that markets aren't just places where we buy and sell s
 
 ## Markets as a governance tool
 
-In "Radical Markets," Posner and Weyl reveal that markets aren't just about buying and selling; they're powerful tools for collective decision-making. Imagine markets as the beating heart of a self-organising society, where the rules of the game shape our economic, social and political landscapes.
+In *Radical Markets*[^1], Posner and Weyl reveal that markets aren't just about buying and selling; they're powerful tools for collective decision-making. Imagine markets as the beating heart of a self-organising society, where the rules of the game shape our economic, social and political landscapes.
 
-Katharina Pistor, in "Code of Capital," emphasises that these rules aren't just abstract concepts. They are the building blocks of our institutions, influencing power dynamics and resource allocation. We can redesign these rules using tokens and blockchain.
+Katharina Pistor, in *Code of Capital*[^2], emphasises that these rules aren't just abstract concepts. They are the building blocks of our institutions, influencing power dynamics and resource allocation. We can redesign these rules using tokens and blockchain.
 
 Traditionally, we rely on voting or committees to make collective decisions. But in a token-economy, ownership and voting rights intertwine. We can represent even the smallest of interests. Imagine a community where token holders directly participate in shaping the future, deciding everything from resource allocation to community rules. The act of exchanging tokens becomes a vote, a powerful way to voice your preferences and impact the world.
 
 The exciting part? Markets are dynamic, constantly adapting with new technologies and social needs. Their rules can be continuously negotiated and improved, allowing us to address emerging challenges and explore new opportunities.
 
-In "Discovering Prices," Milgrom highlights one of the key ways markets govern is through prices. Prices act as signals, conveying valuable information about scarcity, demand, and what people truly value. By aggregating the knowledge of countless individuals, market mechanisms can efficiently allocate resources and coordinate complex activities. It's important to note that price is almost never a simple question of scarcity and preference, supply and demand. And incentives are rarely just about financial gain.
+In *Discovering Prices*[^3], Milgrom highlights one of the key ways markets govern is through prices. Prices act as signals, conveying valuable information about scarcity, demand, and what people truly value. By aggregating the knowledge of countless individuals, market mechanisms can efficiently allocate resources and coordinate complex activities. It's important to note that price is almost never a simple question of scarcity and preference, supply and demand. And incentives are rarely just about financial gain.
 
-*Radical Markets, Code of Capital,* and *Discovering Prices* all argue that many societal problems stem from limited competition and information asymmetry. Well-designed markets can address these issues. For example, in Quadratic Voting, the strength of your conviction matters more than just a single vote. This helps prevent special interests from dominating, leading to fairer and more representative outcomes.
+*Radical Markets, Code of Capital,* and *Discovering Prices* all argue that many societal problems stem from limited competition and information asymmetry. Well-designed markets can address these issues. For example, in Quadratic Voting[^1], the strength of your conviction matters more than just a single vote. This helps prevent special interests from dominating, leading to fairer and more representative outcomes.
 
 Of course, for markets to function effectively as governance mechanisms, the rules must be carefully crafted. We need to strike a balance between encouraging innovation and ensuring fairness, inclusivity, and stability. This is where the evolving field of token engineering is crucial.
 
-Token engineering, coupled with insights from legal frameworks like those in "Code of Capital" and "Rules for a Flat World"  by Hadfield, empowers us to design resilient and representative governance systems. By leveraging the power of markets, we can incentivise participation, aggregate preferences, and foster *more effective* decentralised decision-making.
+Token engineering, coupled with insights from legal frameworks like those in *Code of Capital* and *Rules for a Flat World*[^4]  by Hadfield, empowers us to design resilient and representative governance systems. By leveraging the power of markets, we can incentivise participation, aggregate preferences, and foster *more effective* decentralised decision-making.
 
 ## Markets, Bureaucracies and Entrepreneurs: A tale of economic modes
 
@@ -88,7 +88,7 @@ So, if markets are so great, what about the alternatives – bureaucratic hierar
 
 Both models represent contrasting approaches to governance, each with its strengths and weaknesses. While both rely on rules to shape behaviour, their underlying mechanisms and philosophies differ significantly.
 
-Markets, as we've discussed, are decentralised systems that rely on price signals and incentives to allocate resources and make decisions. Elinor Ostrom's research highlights their effectiveness in managing complex systems, fostering innovation and adaptability by their ability to harness the distributed knowledge and diverse preferences of individuals. However, markets, like biological evolution, are blind, responding to immediate signals but potentially overlooking long-term goals or lacking strategic intent.
+Markets, as we've discussed, are decentralised systems that rely on price signals and incentives to allocate resources and make decisions. Elinor Ostrom's[^5] research highlights their effectiveness in managing complex systems, fostering innovation and adaptability by their ability to harness the distributed knowledge and diverse preferences of individuals. However, markets, like biological evolution, are blind, responding to immediate signals but potentially overlooking long-term goals or lacking strategic intent.
 
 Bureaucracies, on the other hand, are centralised hierarchies that rely on authority, expertise, and political capital to make decisions. They can be efficient in implementing well-defined tasks, but can also become rigid, unresponsive, and prone to corruption. While bureaucracies often *can* act over longer timeframes, they may struggle to proactively address larger goals that fall outside of their established purview.
 
@@ -100,7 +100,7 @@ Enter blockchain. By enabling the low-cost implementation of transparent, tamper
 
 ## Why Trust Matters ... and a word about Transaction Costs
 
-Trust is the secret sauce of a well-functioning market. To understand why, consider "transaction costs" – the hidden costs beyond the price tag when you buy something. These include time spent searching, negotiating, even just worrying about a fair deal.
+Trust is the secret sauce of a well-functioning market. To understand why, consider *transaction costs* – the hidden costs beyond the price tag when you buy something. These include time spent searching, negotiating, even just worrying about a fair deal.
 
 Imagine buying a used car. Researching models, visiting dealerships, getting a mechanic's inspection... it all adds up, and there's still the risk of ending up with a lemon. Those are your transaction costs.
 
@@ -128,13 +128,13 @@ Now, let's dive into the heart of what makes markets tick: rules. When people ta
 
 Think of it like any board game: without rules, it's chaos. But with clear guidelines on what moves are allowed, and how to win, the game becomes fun. The same goes for markets. Well-designed rules create the structure for healthy competition, innovation, and ultimately, a thriving economy.
 
-One of the most fundamental sets of rules in any market is *property rights*. These rights, as Katharina Pistor explores in "Code of Capital," are the legal and social codes that define who owns what and how it can be used or exchanged. They're like the deed to your house, the copyright on a song, or even the reputation you've built online.
+One of the most fundamental sets of rules in any market is *property rights*. These rights, as Katharina Pistor explores in *Code of Capital*, are the legal and social codes that define who owns what and how it can be used or exchanged. They're like the deed to your house, the copyright on a song, or even the reputation you've built online.
 
 But property rights are more than just individual entitlements. As law professor Emily Jane Carpenter argues, they encompass a bundle of interests, including not just individual rights, but also relational and public dimensions. This means that property rights aren't just about what *you* can do with something, but also about how it affects others.
 
 Beyond property rights, markets rely on other rules too. Contracts, backed by a reliable enforcement mechanism, ensure that agreements are upheld. Regulations help prevent monopolies and unfair practices. Transparency requirements empower consumers to make informed choices.
 
-All of these rules work together to create a truly "free" market – not one without rules, but one where the rules are carefully crafted to enable choice, foster trust, and protect everyone's interests.
+All of these rules work together to create a truly *free* market – not one without rules, but one where the rules are carefully crafted to enable choice, foster trust, and protect everyone's interests.
 
 A key point: Blockchains and smart contracts are fundamentally institutional technologies for implementing fair and transparent rules with global reach, radically lowering the costs of what typically requires large bureaucracies. At the moment, we've primarily used them to create simple digital monies, define basic property rights, and implement simple financial exchanges, but we can do so much more.
 
@@ -188,7 +188,7 @@ This market design provided many key benefits:
 
 By decentralising decision-making and relying on market signals, Feeding America was able to significantly reduce waste, increase overall food supply, and ensure that resources were allocated where they were most needed. This success story demonstrates the power of market design to optimise resource allocation, even in non-profit settings, *and how token-based systems can play a crucial role in achieving these goals.* It's a testament to how, with the right rules and incentives, we can harness the power of markets to create a more efficient, equitable, and sustainable world.
 
-I strongly encourage you to listen to the Planet Money episode linked below to learn more about this fascinating example.
+I strongly encourage you to listen to the Planet Money episode linked below[^6] to learn more about this fascinating example.
 
 ## Conclusion
 
@@ -201,3 +201,10 @@ While achieving perfect alignment is an ongoing challenge, responsible market de
 The potential applications of market design are vast and transformative. From Feeding America's groundbreaking auction model to the emerging world of decentralised autonomous organisations, we're just beginning to scratch the surface. As our understanding deepens and technology evolves, purposeful market design promises to revolutionise not just economics, but also governance, policy-making, even how we interact with each other on a global scale.
 
 By embracing the principles of market design, we can unlock the extraordinary potential of human cooperation, harnessing the power of incentives to create a more efficient, equitable, and sustainable world.
+
+[^1]: Posner, Eric, and Eric Weyl. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
+[^2]: Pistor, Katharina. [The Code of Capital: How the law creates wealth and inequality](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital). Princeton University Press, 2019.
+[^3]: Milgrom, Paul. [Discovering prices: auction design in markets with complex constraints](https://cup.columbia.edu/book/discovering-prices/9780231175982). Columbia University Press, 2017.
+[^4]: Hadfield, Gillian Kereldena. [Rules for a flat world: Why humans invented law and how to reinvent it for a complex global economy](https://global.oup.com/academic/product/rules-for-a-flat-world-9780190931827?q=Rules%20for%20a%20flat%20world&lang=en&cc=nz#). Oxford University Press, 2017.
+[^5]: Ostrom, Elinor. [Governing the commons: The evolution of institutions for collective action](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5#fndtn-information). Cambridge university press, 1990.
+[^6]: Planet Money [Episode 665: The Free Food Market](https://www.npr.org/sections/money/2019/09/11/565736836/episode-665-the-free-food-market), 2017
