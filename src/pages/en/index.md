@@ -53,16 +53,16 @@ grid_navigation:
       excerpt: Cardano's Extended Unspent Transaction Output (EUTXO) model extends Bitcoins underlying process UTXO accounting methodology. However the EUTXO is unfamiliar to most, drawing parallels with the REA (Resource-Event-Agent) accounting ontology we compare and contrast the Ethereum balance accounting model.
       cta: Read More
       url: '/posts/eutxoaccounting/'
-    - title: Token Engineering Tutorials - Course Overview
-      excerpt: "Outline of the topics covered in our Token Engineering on Cardano tutorial series: Step-by-step tutorials to design economic mechanisms."
-      cta: See Details
-      url: '/tutorials/courseoverview/'
     - title: Token Engineering Tutorials - Course Introduction
       excerpt: "Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies."
       cta: Learn More
-      url: '/tutorials/courseintroduction/'
+      url: '/tutorials/introduction-tutorials/introduction/'
     - title: Module 1 - Introduction to Token Engineering
       excerpt: "Learn the fundamental concepts of token engineering, its importance in digital economic systems, and why it matters."
       cta: Learn More
-      url: '/tutorials/module1/'
+      url: '/tutorials/introduction-tutorials/module1/'
+    - title: Module 2 - Market Design
+      excerpt: "Discover how markets function, their role in cryptoeconomic systems, and how well designed markets can be used as a tool for social good."
+      cta: Learn More
+      url: '/tutorials/introduction-tutorials/module2/'
 ---

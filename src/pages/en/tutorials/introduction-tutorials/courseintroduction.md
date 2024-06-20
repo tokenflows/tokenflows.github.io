@@ -15,7 +15,7 @@ description: "Become a leader in the transformative field of token engineering. 
 
 # Author box
 author:
-    title: Introduction to Token Engineering
+    title: "Introduction to Token Engineering"
     title_url: '/tutorials/introduction-tutorials/module1/'
     external_url: true
     description: First part of our five-part tutorial series.
@@ -57,7 +57,7 @@ An outline of the topics discussed in each part of our five-part tutorial series
 - Why it is important to understand _**human behaviour**_ in a digital world of complex interactions
 - The _**what**_, _**why**_ and _**how**_ of Token Engineering
 
-#### **Module 2** - Market Design
+#### **Module 2** - [Market Design](/tutorials/introduction-tutorials/module2/)
 
 - What are _**markets**_ and what do they do?
 - Markets as a tool for _**governance**_
