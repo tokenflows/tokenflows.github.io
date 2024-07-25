@@ -37,6 +37,10 @@ grid_navigation:
       excerpt: "Discover how markets function, their role in cryptoeconomic systems, and how well designed markets can be used as a tool for social good."
       cta: Learn More
       url: '/tutorials/introduction-tutorials/module2/'
+    - title: Game Theory, Mechanism Design & Control Theory Tutorial
+      excerpt: "Understand how these theories help predict behaviour, autonomously steer distributed systems, and craft incentive compatible mechanisms that help coordinate social behaviour."
+      cta: Learn More
+      url: '/tutorials/introduction-tutorials/module3/'
     - title: What is Token Engineering?
       excerpt: Join us on this journey to learn Token Engineering. Discover how it's shaping the future of the digital economy and how you can be a part of this transformation. Click here to learn more.
       cta: Learn More
