@@ -36,7 +36,7 @@ nav:
 
 The world hums with complexity, systems within systems running in parallel. As technology evolves, an intriguing question arises: how do we design more structured and robust systems? Old ways of measuring and understanding seem ill-equipped to tackle the unique challenges of today's interconnected world. This is precisely where token engineering enters the picture.
 
-Token engineering is a multidisciplinary field attempting to elegantly structure the decentralised technologies. It's about understanding how systems work, how individuals using tokens interact, and how common goals can drive entirely new behaviours.
+Token engineering is a multidisciplinary field[^1] attempting to elegantly structure the decentralised technologies. It's about understanding how systems work, how individuals using tokens interact, and how common goals can drive entirely new behaviours.
 
 Many see tokens as just another form of money, but token engineering reveals a far more powerful potential. Tokens can be infused with special properties, carrying unique characteristics alongside the real-time data they generate. This unlocks insights into economic behaviour, providing a blueprint not only for designing critical systems but also restoring trust in areas where it has been lost or was too costly to achieve.
 
@@ -82,7 +82,7 @@ Every institution, every market, will possess different transaction costs and pr
 
 ## Market design and incentives
 
-The world of economics, as we now understand, is a dynamic web of interactions, shaped by networks, individual choices, and the very rules that govern them. Token exchanges, popularised by the book Radical Markets and initiatives like [RadicalXchange](https://www.radicalxchange.org/), offer a revolutionary tool for economic transformation, with the power to reshape incentives at their core.
+The world of economics, as we now understand, is a dynamic web of interactions, shaped by networks, individual choices, and the very rules that govern them. Token exchanges, popularised by the book Radical Markets[^2] and initiatives like [RadicalXchange](https://www.radicalxchange.org/), offer a revolutionary tool for economic transformation, with the power to reshape incentives at their core.
 
 Imagine a world where value isn't just about cold hard currency. Carefully designed tokens can embody so much more – rights to access services, tiny slices of ownership, democratising assets once reserved for the wealthy.
 
@@ -104,7 +104,7 @@ Of course, trust and common understanding will always matter, no matter how clev
 
 ## Blockchain as institutional technology
 
-Blockchains are the foundation of this economic revolution. They act as the technological backbone, unlocking a whole new world of market design and aligned incentives.
+Blockchains are the foundation of this economic revolution[^3]. They act as the technological backbone, unlocking a whole new world of market design and aligned incentives.
 
 More than just record-keepers, blockchains build trust without the need for traditional intermediaries. And, as we know, tokens aren't just digital coins – they're programmable incentives! Through their careful design, we can link the success of individuals to the success of the entire market, creating a powerful force for positive change.
 
@@ -167,3 +167,7 @@ To build these systems, we need the mindset of an engineer. Carefully defining g
 From the foundations of complexity science to the specifics of token design, token economies represent a thrilling frontier. They offer the potential to build systems that are fairer, more efficient, and better aligned with the needs of all participants.
 
 In our upcoming tutorials, we'll dive deeper into these fascinating concepts. We'll explore specific tools, analyse case studies, and learn the practical side of building the economies of the future.
+
+[^1]: Voshmgir, Shermin., & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
+[^2]: Posner, Eric, and Eric Weyl. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
+[^3]: Berg, Chris., Davidson, Sinclair., Potts, Jason. [Understanding the Blockchain Economy: An Introduction to Institutional Cryptoeconomics](https://www.amazon.com.au/Understanding-Blockchain-Economy-Institutional-Cryptoeconomics/dp/1800373856). Edward Elgar Pub, 2020.
