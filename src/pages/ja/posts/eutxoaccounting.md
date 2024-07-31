@@ -14,7 +14,7 @@ author:
   title: Cardanoの会計モデル
   title_url: https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/
   external_url: true
-  description: Cardano is an extended Unspent Transaction Output (EUTXO) blockchain, that uses a Bitcoin-based ledger accounting model. Unlike the account-balance model used in Ethereum, the eUTXO maps directly to the REA accounting ontology (ISO 15944-4).
+  description: Cardano is an extended Unspent Transaction Output (EUTXO) blockchain, that uses a Bitcoin-based ledger accounting model. Ethereum で使用されるアカウント残高モデルとは異なり、eUTXO は REA アカウンティング オントロジー (ISO 15944-4) に直接マッピングされます。
 micro_nav: true
 nav:
   index:

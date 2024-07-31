@@ -18,18 +18,19 @@ keywords:
   - Cardano
 comments: false
 title: トークンエンジニアリング入門
-description: "モジュール 1: トークン エンジニアリングの概要は、5 部構成のチュートリアル シリーズの最初の部分であり、トークン エンジニアリングの基本概念、デジタル経済システムにおけるその重要性、そしてそれがなぜ重要なのかについて説明します。"
+description: "モジュール1: トークンエンジニアリングの入門は、私たちの5部構成のチュートリアルシリーズの第一弾です。 トークンエンジニアリングの基本的な概念、デジタル経済システムにおける重要性、そしてそれがなぜ重要かを説明します。"
 author:
-  title: トークンエンジニアリングチュートリアル
-  title_url: /ja/tutorials/introduction-tutorials/introduction/
+  title: マーケットデザイン
+  title_url: /ja/tutorials/introduction-tutorials/module2/
   external_url: true
-  description: トークンエンジニアリングの変革分野のリーダーになりましょう。 堅牢で公平かつ持続可能なデジタル経済を構築するためのスキルを学びます。
+  description: 5 部構成のチュートリアル シリーズの第 2 部です。
 micro_nav: true
 nav:
   index:
     content: チュートリアルシリーズの概要に戻る
-    url: /ja/tutorials/introduction-tutorials/introduction/
+    url: /ja/tutorials/introduction-tutorials/module1/
 ---
+
 @[youtube](ZDZzegDbw1c)
 
 ## トークンエンジニアリング
