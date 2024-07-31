@@ -68,7 +68,7 @@ An outline of the topics discussed in each part of our five-part tutorial series
 - A closer look at _**auctions**_
   - _**Case study**_: How food banks use markets to feed the community
 
-#### **Module 3** - Game theory, Mechanism Design & Control Theory
+#### **Module 3** - [Game theory, Mechanism Design & Control Theory](/tutorials/introduction-tutorials/module3/)
 
 - What is _**game theory**_ and how can it be applied when designing _**complex systems**_?
 - Types of games and their relevance

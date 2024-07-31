@@ -19,6 +19,10 @@ author:
     title_url: '/tutorials/introduction-tutorials/introduction/'
     external_url: true
     description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
+    title: Game theory, Mechanism Design & Control Theory
+    title_url: '/tutorials/introduction-tutorials/module3/'
+    external_url: true
+    description: Third part of our five-part tutorial series.
 
 # Micro navigation
 micro_nav: true
