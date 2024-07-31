@@ -15,10 +15,6 @@ description: "Module 2: Market Design, is the second part of our five-part tutor
 
 # Author box
 author:
-    title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/introduction/'
-    external_url: true
-    description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
     title: Game theory, Mechanism Design & Control Theory
     title_url: '/tutorials/introduction-tutorials/module3/'
     external_url: true
