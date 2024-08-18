@@ -24,10 +24,10 @@ comments: false
 title: マーケットデザイン
 description: "モジュール 2: マーケット デザインは、5 部構成のチュートリアル シリーズの第 2 部です。 私たちは、市場を社会の利益のためのツールとしてどのように活用できるか、官僚機構、起業家、規則の役割を探り、市場設計のケーススタディを実施します。"
 author:
-  title: トークンエンジニアリングチュートリアル
+  title: ゲーム理論、メカニズム設計、制御理論
   title_url: /ja/tutorials/introduction-tutorials/introduction/
   external_url: true
-  description: トークンエンジニアリングの変革分野のリーダーになりましょう。 堅牢で公平かつ持続可能なデジタル経済を構築するためのスキルを学びます。
+  description: 5 部構成のチュートリアル シリーズの第 3 部です。
 micro_nav: true
 nav:
   index:
