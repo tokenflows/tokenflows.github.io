@@ -15,10 +15,10 @@ description: "Module 3: Game theory, Mechanism Design & Control Theory, is the t
 
 # Author box
 author:
-    title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/introduction/'
+    title: Token Design Process
+    title_url: '/tutorials/introduction-tutorials/module4/'
     external_url: true
-    description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
+    description: Fourth part of our five-part tutorial series.
 
 # Micro navigation
 micro_nav: true

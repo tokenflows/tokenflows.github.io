@@ -61,12 +61,12 @@ An outline of the topics discussed in each part of our five-part tutorial series
 
 - What are _**markets**_ and what do they do?
 - Markets as a tool for _**governance**_
+- The role of _**bureaucracies**_ and _**entrepreneurs**_
 - Markets as _**computational systems**_ and the role of the _**pricing function**_
 - Rules make/enable _**free-markets**_
 - The importance of _**incentive mechanisms**_ (market mechanisms) and _**incentive compatibility**_
 - _**Principal-agent**_ problems
-- A closer look at _**auctions**_
-  - _**Case study**_: How food banks use markets to feed the community
+- A closer look at _**auctions:**_ How food banks use markets to feed the poor
 
 #### **Module 3** - [Game theory, Mechanism Design & Control Theory](/tutorials/introduction-tutorials/module3/)
 
@@ -76,17 +76,17 @@ An outline of the topics discussed in each part of our five-part tutorial series
 - Seven-Layers of financial cryptography and _**'governance as capital'**_
 - Bringing it together: a closer look at _**mechanism design**_ and how can it be used as a tool for _**coordinating social behaviour**_
 
-#### **Module 4** - Token Design & Token Policies
+#### **Module 4** - [Token Design Process](/tutorials/introduction-tutorials/module4/)
 
 - The basics of _**token design**_
 - Governing token economic systems
-  - _**Bargaining**_ in _**social networks**_
   - _**Network effects**_ and _**dynamics**_
-  - The _**laws of power**_ and mechanisms for expressing decisions
-- Considerations when designing a token economy
+  - _**Power laws**_
+  - _**Bargaining**_ in _**social networks**_
+- Other considerations
+  - _**Techno-ethics**_
   - The _**legal code**_
   - _**Economic design**_
-  - _**Techno-ethics**_
 
 #### **Module 5** - Incentive Design
 
