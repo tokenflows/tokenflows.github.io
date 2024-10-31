@@ -1,5 +1,5 @@
 ---
-id: モジュール4
+id: module4
 lang: ja
 url: /tutorials/introduction-tutorials/module4/
 layout: layouts/default.njk
@@ -35,14 +35,14 @@ title: トークン設計プロセス
 description: "モジュール 4: トークン設計プロセスは、5 部構成のチュートリアル シリーズの第 4 部です。 トークン経済システムの設計と管理のプロセスを検討し、ネットワーク効果や交渉やべき乗則などの概念について議論します。 また、これらのシステムの基盤となる倫理、法的枠組み、経済設計の原則についても詳しく検討します。"
 author:
   title: トークンエンジニアリングチュートリアル
-  title_url: /tutorials/introduction-tutorials/introduction/
+  title_url: /ja/tutorials/introduction-tutorials/introduction/
   external_url: true
   description: トークンエンジニアリングの変革分野のリーダーになりましょう。 堅牢で公平かつ持続可能なデジタル経済を構築するためのスキルを学びます。
 micro_nav: true
 nav:
   index:
     content: チュートリアルシリーズの概要に戻る
-    url: /tutorials/introduction-tutorials/introduction/
+    url: /ja/tutorials/introduction-tutorials/introduction/
 ---
 
 # @[youtube](DejV60GeTzI)
