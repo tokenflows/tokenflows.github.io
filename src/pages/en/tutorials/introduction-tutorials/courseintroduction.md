@@ -88,14 +88,12 @@ An outline of the topics discussed in each part of our five-part tutorial series
   - The _**legal code**_
   - _**Economic design**_
 
-#### **Module 5** - Incentive Design
+#### **Module 5** - [Incentive Design](/tutorials/introduction-tutorials/module5/)
 
-- Ledgers in society
-  - Making things _**ledge-able**_
-  - What makes something a _**ledger**_?
-- The New Code
+- _**Ledgers**_ in society
+- _**Code**_ and _**capital**_
   - The _**alchemy of money**_
-  - The digital code of _**property rights**_ and _**capital**_
+  - _**Capital**_ and _**digital codes**_
   - _**Network states, digital geography & jurisdictions**_: Escaping the geographic limits for the rest-of-us!
 - _**Capital formation**_ - Coordinating token sales and project funding
   - The hope and pray of _**Initial Coin Offerings**_ (ICO’s)

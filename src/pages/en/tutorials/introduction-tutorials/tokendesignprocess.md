@@ -15,10 +15,10 @@ description: "Module 4: Token Design Process, is the fourth part of our five-par
 
 # Author box
 author:
-    title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/introduction/'
+    title: Incentive Design
+    title_url: '/tutorials/introduction-tutorials/module5/'
     external_url: true
-    description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
+    description: Fifth part of our five-part tutorial series.
 
 # Micro navigation
 micro_nav: true
@@ -193,6 +193,6 @@ But the journey doesn't end here. Token engineering is evolving. In our next tut
 The path of token engineering is one of continuous learning and collaboration. Embrace the challenge and let's shape a future where tokenised applications unlock new possibilities.
 
 [^1]: Chen, Andrew [The Cold Start Problem: How to Start and Scale Network Effects](https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf). Harper Collins, 2021.
-[^2]: Quintarelli, Emanuele., & Mathis, Krishan. [From systems to entrepreneurial ecosystemic organizations. Exploring Haier’s RenDanHeYi.](https://metaphorum.org/webinar/from-systems-to-entrepreneurial-ecosystemic-organizations-exploring-haiers-rendanheyi), 2024.
-[^3]: Easley, David., Kleinberg, Jon. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/). Cambridge University Press, 2010.
+[^2]: Quintarelli, Emanuele & Mathis, Krishan. [From systems to entrepreneurial ecosystemic organizations. Exploring Haier’s RenDanHeYi.](https://metaphorum.org/webinar/from-systems-to-entrepreneurial-ecosystemic-organizations-exploring-haiers-rendanheyi), 2024.
+[^3]: Easley, David & Kleinberg, Jon. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/). Cambridge University Press, 2010.
 [^4]: Zargham, Michael. [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018). Medium, 2021.
