@@ -74,7 +74,11 @@ Traditionally, we rely on voting or committees to make collective decisions. But
 
 The exciting part? Markets are dynamic, constantly adapting with new technologies and social needs. Their rules can be continuously negotiated and improved, allowing us to address emerging challenges and explore new opportunities.
 
+![Market Mechanism](/assets/images/marketmechanismcog.jpg)
+
 In *Discovering Prices*[^3], Milgrom highlights one of the key ways markets govern is through prices. Prices act as signals, conveying valuable information about scarcity, demand, and what people truly value. By aggregating the knowledge of countless individuals, market mechanisms can efficiently allocate resources and coordinate complex activities. It's important to note that price is almost never a simple question of scarcity and preference, supply and demand. And incentives are rarely just about financial gain.
+
+![Quadratic Voting](/assets/images/quadraticvoting.jpg)
 
 *Radical Markets, Code of Capital,* and *Discovering Prices* all argue that many societal problems stem from limited competition and information asymmetry. Well-designed markets can address these issues. For example, in Quadratic Voting[^1], the strength of your conviction matters more than just a single vote. This helps prevent special interests from dominating, leading to fairer and more representative outcomes.
 
@@ -92,15 +96,21 @@ Markets, as we've discussed, are decentralised systems that rely on price signal
 
 Bureaucracies, on the other hand, are centralised hierarchies that rely on authority, expertise, and political capital to make decisions. They can be efficient in implementing well-defined tasks, but can also become rigid, unresponsive, and prone to corruption. While bureaucracies often *can* act over longer timeframes, they may struggle to proactively address larger goals that fall outside of their established purview.
 
+![Network of Networks](/assets/images/networkofnetworks.jpg)
+
 Here's where entrepreneurship enters the scene, not just as a disruptive force, but as a crucial element in the evolution of governance systems. Ostrom emphasised the importance of rules that are created and adapted by individuals closest to the local context – "rules of form" – over rules imposed by remote central planners. Entrepreneurs, in this context, are the rule-makers, the innovators who identify inefficiencies and propose new solutions. They can bridge the gap between the short-term focus of markets and the rigidity of bureaucracies, introducing new rules and adapting existing ones to better serve community needs.
 
 Think of markets as bustling marketplaces, where countless individuals interact freely. This decentralised environment, when coupled with the entrepreneurial spirit of rule-making, can lead to surprising innovations and efficient outcomes. Bureaucracies, in contrast, are like well-ordered factories, resistant to change. This rigidity can create opportunities for entrepreneurial experimentation with new market designs. Ostrom's research revealed that the most successful governance systems often combine elements of all three modes, starting with a strong understanding of the local context.
+
+![Bottom Up Structure](/assets/images/bottomup.jpg)
 
 Enter blockchain. By enabling the low-cost implementation of transparent, tamper-proof rule enforcement, it empowers bottom-up innovation. For example, we can use market mechanisms to efficiently allocate resources, while relying on bureaucratic structures to provide a framework for governance to evolve. This creates fertile ground for entrepreneurial exploration, allowing for the rapid prototyping and testing of new market designs tailored to specific communities. Through real-world experimentation and feedback, these entrepreneurial endeavours help the broader system remain responsive and evolve to meet the community's changing needs.
 
 ## Why Trust Matters ... and a word about Transaction Costs
 
 Trust is the secret sauce of a well-functioning market. To understand why, consider *transaction costs* – the hidden costs beyond the price tag when you buy something. These include time spent searching, negotiating, even just worrying about a fair deal.
+
+![Transaction Costs](/assets/images/transactioncost.jpg)
 
 Imagine buying a used car. Researching models, visiting dealerships, getting a mechanic's inspection... it all adds up, and there's still the risk of ending up with a lemon. Those are your transaction costs.
 
@@ -118,7 +128,11 @@ Every transaction, every exchange, is a piece of data being fed into this algori
 
 Like any algorithm, markets need clear rules to function effectively. These rules ensure fair play and unbiased information processing. As Elinor Ostrom's research suggests, the most effective rules are often those crafted by individuals closest to the local context.
 
+![Types of Tokens](/assets/images/tokentypes.jpg)
+
 But price isn't the only feedback mechanism. Incentives are also drivers of behaviour. In traditional markets, the pursuit of financial profit – is a powerful incentive. In token economies, incentives and profit can take many forms, like rewards for community contribution, access to exclusive resources, or even governance rights. They guide participants towards behaviours that ideally benefit the whole system.
+
+![EUTXO](/assets/images/eutxomodel.jpg)
 
 Viewing markets as a network of interacting algorithms is especially relevant to token engineering. Blockchains provide a transparent, tamper-proof platform for designing and implementing these algorithms on a decentralised, global scale. In fact, Cardano's EUTXO model, with its ability to encode multi-dimensional prices, is a prime example of how blockchains can create richer, more informative market signals. A digital price becomes a dynamic feedback loop, constantly adjusting to reflect the unique context of each market.
 
@@ -135,6 +149,8 @@ But property rights are more than just individual entitlements. As law professor
 Beyond property rights, markets rely on other rules too. Contracts, backed by a reliable enforcement mechanism, ensure that agreements are upheld. Regulations help prevent monopolies and unfair practices. Transparency requirements empower consumers to make informed choices.
 
 All of these rules work together to create a truly *free* market – not one without rules, but one where the rules are carefully crafted to enable choice, foster trust, and protect everyone's interests.
+
+![Blockchain as Institution](/assets/images/blockchainasinstitution.jpg)
 
 A key point: Blockchains and smart contracts are fundamentally institutional technologies for implementing fair and transparent rules with global reach, radically lowering the costs of what typically requires large bureaucracies. At the moment, we've primarily used them to create simple digital monies, define basic property rights, and implement simple financial exchanges, but we can do so much more.
 
@@ -180,6 +196,8 @@ Before 2005, Feeding America, a major network of food banks, relied on a simple 
 
 But then, they embraced a radical idea: a market-based solution. They created an online auction platform where food banks could bid on rescued food using virtual "shares" tailored to their specific needs. And here's the key: these shares weren't U.S. dollars. They were tokens designed specifically for this system, aligning incentives and ensuring that the food went to those who needed it most.
 
+![Price Discovery Graph](/assets/images/pricediscovery.jpg)
+
 This market design provided many key benefits:
 
 - **Price Discovery:** Bidding allowed food banks to reveal their true preferences and how much they valued different types of food. This meant that high-demand items, like cereal, could be allocated to the food banks that needed them most.
@@ -194,6 +212,8 @@ I strongly encourage you to listen to the Planet Money episode linked below[^6] 
 
 Markets are powerful engines fuelled by human behaviour, but their true potential is unlocked through intentional design. Well-constructed rules and incentives harmonise individual self-interest with collective goals, creating powerful mechanisms for economic exchange, governance, and social coordination.
 
+![Market Gears](/assets/images/marketgears.jpg)
+
 We've seen how markets, like sophisticated algorithms, process vast amounts of data through the price mechanism, optimising resource allocation and adapting to changing conditions. We've also explored how game theory can help us craft incentive-compatible mechanisms that align individual motivations with the greater good.
 
 While achieving perfect alignment is an ongoing challenge, responsible market design offers a powerful toolkit for transforming self-motivated human behaviour into a collaborative force for innovation and progress. Tokens, including token-based reputation systems, transparent protocols, and the continuous refinement of incentive architectures can help safeguard against inefficiencies and manipulation.
@@ -202,7 +222,7 @@ The potential applications of market design are vast and transformative. From Fe
 
 By embracing the principles of market design, we can unlock the extraordinary potential of human cooperation, harnessing the power of incentives to create a more efficient, equitable, and sustainable world.
 
-[^1]: Posner, Eric, and Eric Weyl. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
+[^1]: Posner, Eric & Weyl, Eric. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
 [^2]: Pistor, Katharina. [The Code of Capital: How the law creates wealth and inequality](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital). Princeton University Press, 2019.
 [^3]: Milgrom, Paul. [Discovering prices: auction design in markets with complex constraints](https://cup.columbia.edu/book/discovering-prices/9780231175982). Columbia University Press, 2017.
 [^4]: Hadfield, Gillian Kereldena. [Rules for a flat world: Why humans invented law and how to reinvent it for a complex global economy](https://global.oup.com/academic/product/rules-for-a-flat-world-9780190931827?q=Rules%20for%20a%20flat%20world&lang=en&cc=nz#). Oxford University Press, 2017.

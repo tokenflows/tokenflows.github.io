@@ -36,6 +36,8 @@ nav:
 
 The world hums with complexity, systems within systems running in parallel. As technology evolves, an intriguing question arises: how do we design more structured and robust systems? Old ways of measuring and understanding seem ill-equipped to tackle the unique challenges of today's interconnected world. This is precisely where token engineering enters the picture.
 
+![Cryptoeconomic Venn Diagram](/assets/images/cryptoeconomicsystems.jpg)
+
 Token engineering is a multidisciplinary field[^1] attempting to elegantly structure the decentralised technologies. It's about understanding how systems work, how individuals using tokens interact, and how common goals can drive entirely new behaviours.
 
 Many see tokens as just another form of money, but token engineering reveals a far more powerful potential. Tokens can be infused with special properties, carrying unique characteristics alongside the real-time data they generate. This unlocks insights into economic behaviour, providing a blueprint not only for designing critical systems but also restoring trust in areas where it has been lost or was too costly to achieve.
@@ -51,6 +53,8 @@ This is where tokens and the systems built around them offer unique potential. T
 ## Behavioural Economics
 
 Let's be honest – traditional economic models, while useful, often don't capture the full complexity of decentralised, token-based economies. Humans aren't rational calculators, and emotions, biases, and social dynamics play a huge role in how we interact within these systems. This is where behavioural economics shines.
+
+![Human Psychology](/assets/images/humans.jpg)
 
 Behavioural economics bridges the gap between messy human behaviour and the design of effective crypto-economic systems. Think of it as a toolkit for token engineers. It helps them understand the psychological motivations of users, anticipate the impact of biases like overconfidence or fear, and recognise the importance of trust and transparency within decentralised communities.
 
@@ -78,11 +82,15 @@ Network analysis adds depth by revealing how connections, like social networks o
 
 Institutional economics and mechanism design offer a powerful lens for understanding the complexities of economic systems. Institutions define the formal rules and informal norms that shape behaviour and provide the framework for economic activity. Every market is an institution.
 
+![Transaction Costs](/assets/images/transactioncost.jpg)
+
 Every institution, every market, will possess different transaction costs and produce different distributions of wealth and power as a result. Transaction costs, from negotiating contracts to enforcing agreements, can make or break a market. But remember the costs are shaped by rules. Institutional economics and mechanism design hand us the knowledge to reshape those rules, unlocking the collaborative potential of markets. They reveal not just how the game is played, but how to build a better game altogether. By understanding transaction costs, we can design economies that are fairer, more efficient, and better adapted to the complexity of real-world interactions.
 
 ## Market design and incentives
 
 The world of economics, as we now understand, is a dynamic web of interactions, shaped by networks, individual choices, and the very rules that govern them. Token exchanges, popularised by the book Radical Markets[^2] and initiatives like [RadicalXchange](https://www.radicalxchange.org/), offer a revolutionary tool for economic transformation, with the power to reshape incentives at their core.
+
+![Types of Tokens](/assets/images/tokentypes.jpg)
 
 Imagine a world where value isn't just about cold hard currency. Carefully designed tokens can embody so much more – rights to access services, tiny slices of ownership, democratising assets once reserved for the wealthy.
 
@@ -95,6 +103,8 @@ Ultimately, it's about reimagining not just how we exchange but how we define an
 ## Governance through Market Exchange
 
 Digital spaces are evolving systems where exchange unexpectedly drives order and collective choice. This isn't some theoretical future – it's a real-world experiment unfolding right now. Through the power of tokens, governance is evolving. Tokens can represent your level of conviction, long-term commitment, even your influence on a decision. Smart designs can align what's good for the individual with the strength of the whole community.
+
+![Quadratic Voting](/assets/images/quadraticvoting.jpg)
 
 Today, law, centralised power and regulation dictate how we interact. But a digital native era is dawning. Blockchain technology and token-powered systems offer a compelling alternative. Imagine voting where your 'stake' reflects how deeply you care. This kind of system, called Quadratic Voting, gives a voice to the passionate, while preventing any single person from dominating.
 
@@ -168,6 +178,6 @@ From the foundations of complexity science to the specifics of token design, tok
 
 In our upcoming tutorials, we'll dive deeper into these fascinating concepts. We'll explore specific tools, analyse case studies, and learn the practical side of building the economies of the future.
 
-[^1]: Voshmgir, Shermin., & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
-[^2]: Posner, Eric, and Eric Weyl. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
-[^3]: Berg, Chris., Davidson, Sinclair., Potts, Jason. [Understanding the Blockchain Economy: An Introduction to Institutional Cryptoeconomics](https://www.amazon.com.au/Understanding-Blockchain-Economy-Institutional-Cryptoeconomics/dp/1800373856). Edward Elgar Pub, 2020.
+[^1]: Voshmgir, Shermin. & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
+[^2]: Posner, Eric & Weyl, Eric. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
+[^3]: Berg, Chris., Davidson, Sinclair. & Potts, Jason. [Understanding the Blockchain Economy: An Introduction to Institutional Cryptoeconomics](https://www.amazon.com.au/Understanding-Blockchain-Economy-Institutional-Cryptoeconomics/dp/1800373856). Edward Elgar Pub, 2020.

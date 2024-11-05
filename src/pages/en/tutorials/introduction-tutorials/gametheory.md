@@ -160,7 +160,7 @@ The journey of token engineering is just beginning. Let's use these tools wisely
 [^4]: Axelrod, Robert M. [The evolution of cooperation](https://archive.org/details/evolutionofcoop000axel). New York Basic Books, 1984.
 [^5]: Coutts, Veronica. [An introduction to bonding curves, shapes and use cases](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a). Medium, 2019.
 
-[^6]: Voshmgir, Shermin., & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
+[^6]: Voshmgir, Shermin & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
 
 [^7]: Grigg, Ian. [Financial Cryptography in 7 Layers](https://iang.org/papers/fc7.html). Springer-Verlag LNCS, 2000.
 
