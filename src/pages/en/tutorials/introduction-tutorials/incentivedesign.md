@@ -30,7 +30,7 @@ nav:
         url: '/tutorials/introduction-tutorials/introduction/'
 
 ---
-# @[youtube]()
+# @[youtube](TXiLbqse86s)
 
 ## Introduction
 
@@ -156,7 +156,7 @@ Ideally, funding should be allocated based on merit, with open competition, clea
 
 As a result, voting often relies on community groups creating proposal lists or individuals promoting projects through direct messages and "shilling". This undermines the goal of impartial evaluation, favouring projects with strong backing or marketing prowess over those with genuine merit.
 
-Moreover, Catalyst's on-chain plutocratic voting system, rooted in the [disproportionate distribution of ADA](https://beta.explorer.cardano.org/en/addresses), exacerbates challenges in accurately reflecting community consensus. This system can stifle innovation, leading to a funding landscape that favours those with greater wealth and influence.
+Moreover, Catalyst's on-chain plutocratic voting system, rooted in the disproportionate distribution of ADA, exacerbates challenges in accurately reflecting community consensus. This system can stifle innovation, leading to a funding landscape that favours those with greater wealth and influence.
 
 While Catalyst has achieved significant success in fostering community-driven innovation, its inadequate incentives and social choice mechanisms pose challenges to equitable funding allocation. As the ecosystem matures, addressing these issues will be essential to ensure Catalyst truly reflects the collective will of the community.
 
@@ -213,6 +213,9 @@ By aligning incentives and promoting transparency, Alpha-bonds open up new possi
 Throughout this journey, we have explored principles of incentive design and examined the mechanisms that drive behaviour and shape token economies. From the history of ledgers to the innovative potential of Alpha-bonds, we have highlighted how blockchain technology can be used to create more sustainable micro-economies.
 
 Token engineering is a dynamic and collaborative field. Embrace experimentation, learn from others, and help build a brighter, more inclusive future—one token at a time.
+
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
 
 [^1]: North, Douglass. [The New Institutional Economics and Development](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/NewInstE.North.pdf). Washington University, 1993.
 [^2]: Chen, Andrew [The Cold Start Problem: How to Start and Scale Network Effects](https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf). Harper Collins, 2021.

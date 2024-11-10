@@ -154,6 +154,9 @@ As blockchain technology evolves, even more sophisticated applications will emer
 
 The journey of token engineering is just beginning. Let's use these tools wisely to shape a more cooperative, sustainable, and equitable future.
 
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
+
 [^1]: Beinhocker, Eric D. [The Origin of Wealth: the radical remaking of economics and what it means for business and society](https://archive.org/details/originofwealthra0000bein). Harvard Business School Press, 2017.
 [^2]: Tyson, Mike. [Everybody has a plan until they get punched in the face](https://www.youtube.com/watch?v=3QRVEL05BCQ), 1987.
 [^3]: Roughgarden, Tim. [Twenty Lectures on Algorit](https://arc.net/l/quote/jhytmies)[hmic Game Theory](https://www.amazon.com/Twenty-Lectures-Algorithmic-Game-Theory/dp/131662479X/?content-id=amzn1.sym.f911c8db-3a2b-4b3e-952f-b80fdcee83f4). Cambridge University Press, 2016.

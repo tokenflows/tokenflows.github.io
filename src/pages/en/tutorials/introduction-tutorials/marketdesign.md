@@ -222,6 +222,9 @@ The potential applications of market design are vast and transformative. From Fe
 
 By embracing the principles of market design, we can unlock the extraordinary potential of human cooperation, harnessing the power of incentives to create a more efficient, equitable, and sustainable world.
 
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
+
 [^1]: Posner, Eric & Weyl, Eric. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
 [^2]: Pistor, Katharina. [The Code of Capital: How the law creates wealth and inequality](https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital). Princeton University Press, 2019.
 [^3]: Milgrom, Paul. [Discovering prices: auction design in markets with complex constraints](https://cup.columbia.edu/book/discovering-prices/9780231175982). Columbia University Press, 2017.
