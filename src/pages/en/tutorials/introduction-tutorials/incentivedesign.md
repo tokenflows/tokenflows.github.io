@@ -15,10 +15,10 @@ description: "Module 5: Incentive Design, is the fifth and final part of our tut
 
 # Author box
 author:
-    title: Token Engineering Tutorials
-    title_url: '/tutorials/introduction-tutorials/introduction/'
+    title: Project Close-out Report
+    title_url: '/tutorials/introduction-tutorials/closeout/'
     external_url: true
-    description: Become a leader in the transformative field of token engineering. Learn skills to build robust, equitable, and sustainable digital economies.
+    description: Project summary report and video.
 
 # Micro navigation
 micro_nav: true
