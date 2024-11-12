@@ -40,7 +40,7 @@ In this tutorial, we'll explore how game theory helps us analyse expected behavi
 
 Through real-world examples like bonding curves, conviction voting, and prediction markets, we'll showcase how these powerful tools coordinate social behaviour and drive positive outcomes.
 
-## Market Design (Recap):
+## Market Design (Recap)
 
 In our [previous tutorial](/tutorials/introduction-tutorials/module2/), we discussed that markets aren't just a place to buy and sell stuff; they're intricate systems of rules that shape our behaviour and collective well-being. We explored how markets can be strategically designed to incentivise participation, aggregate preferences, and foster effective decentralised decision-making. As Friedrich Hayek eloquently put it, markets act as a "marvel" of information processing, utilising price signals to efficiently allocate resources across a vast network of participants.
 

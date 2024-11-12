@@ -30,7 +30,7 @@ nav:
         url: '/tutorials/introduction-tutorials/introduction/'
 
 ---
-# @[youtube](DejV60GeTzI)
+@[youtube](DejV60GeTzI)
 
 ## Introduction
 
