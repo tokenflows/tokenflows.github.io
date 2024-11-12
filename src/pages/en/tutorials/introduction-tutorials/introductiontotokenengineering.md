@@ -178,6 +178,9 @@ From the foundations of complexity science to the specifics of token design, tok
 
 In our upcoming tutorials, we'll dive deeper into these fascinating concepts. We'll explore specific tools, analyse case studies, and learn the practical side of building the economies of the future.
 
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
+
 [^1]: Voshmgir, Shermin. & Zargham, Michael. (2019). [Foundations of Cryptoeconomic Systems](https://assets.pubpub.org/sy02t720/31581340240758.pdf). Vienna University of Economics, 2019.
 [^2]: Posner, Eric & Weyl, Eric. [Radical markets: Uprooting capitalism and democracy for a just society](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets). Princeton University Press, 2018.
 [^3]: Berg, Chris., Davidson, Sinclair. & Potts, Jason. [Understanding the Blockchain Economy: An Introduction to Institutional Cryptoeconomics](https://www.amazon.com.au/Understanding-Blockchain-Economy-Institutional-Cryptoeconomics/dp/1800373856). Edward Elgar Pub, 2020.

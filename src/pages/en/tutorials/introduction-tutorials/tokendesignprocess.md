@@ -192,6 +192,9 @@ But the journey doesn't end here. Token engineering is evolving. In our next tut
 
 The path of token engineering is one of continuous learning and collaboration. Embrace the challenge and let's shape a future where tokenised applications unlock new possibilities.
 
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
+
 [^1]: Chen, Andrew [The Cold Start Problem: How to Start and Scale Network Effects](https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf). Harper Collins, 2021.
 [^2]: Quintarelli, Emanuele & Mathis, Krishan. [From systems to entrepreneurial ecosystemic organizations. Exploring Haier’s RenDanHeYi.](https://metaphorum.org/webinar/from-systems-to-entrepreneurial-ecosystemic-organizations-exploring-haiers-rendanheyi), 2024.
 [^3]: Easley, David & Kleinberg, Jon. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/). Cambridge University Press, 2010.
