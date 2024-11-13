@@ -1,5 +1,5 @@
 ---
-id: module4
+id: モジュール4
 lang: ja
 url: /tutorials/introduction-tutorials/module4/
 layout: layouts/default.njk
@@ -45,7 +45,7 @@ nav:
     url: /ja/tutorials/introduction-tutorials/introduction/
 ---
 
-# @[youtube](DejV60GeTzI)
+@[youtube](DejV60GeTzI)
 
 ## はじめに
 
@@ -207,10 +207,14 @@ NetworkX Python ライブラリなどのツールを cadCAD などのシミュ�
 
 トークン エンジニアリングの道は、継続的な学習とコラボレーションの道です。 挑戦を受け入れ、トークン化されたアプリケーションが新たな可能性を切り開く未来を形作りましょう。
 
+##### 謝辞
+
+日本語翻訳にご協力いただいた[Yuta](https://x.com/yuta_cryptox)さんに感謝します。
+
 [^1]: Chen, Andrew [コールドスタート問題: ネットワーク効果を開始および拡張する方法](https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf)。 ハーパーコリンズ、2021年。
 
-[^2]: Quintarelli, Emanuele.、Mathis, Krishan. [システムから起業家のエコシステム組織へ。 ハイアールのRenDanHeYiを探る。](https://metaphorum.org/webinar/from-systems-to-entrepreneurial-ecosystemic-organizations-exploring-haiers-rendanheyi)、2024年。
+[^2]: Quintarelli, Emanuele & Mathis, Krishan. [システムから起業家のエコシステム組織へ。 ハイアールのRenDanHeYiを探る。](https://metaphorum.org/webinar/from-systems-to-entrepreneurial-ecosystemic-organizations-exploring-haiers-rendanheyi)、2024年。
 
-[^3]: イーズリー、デビッド、クラインバーグ、ジョン。 [ネットワーク、群衆、市場：高度に接続された世界についての推論](https://www.cs.cornell.edu/home/kleinber/networks-book/)。 ケンブリッジ大学出版局、2010年。
+[^3]: Easley, David & Kleinberg, Jon. [ネットワーク、群衆、市場：高度に接続された世界についての推論](https://www.cs.cornell.edu/home/kleinber/networks-book/)。 ケンブリッジ大学出版局、2010年。
 
 [^4]: ザーガム、マイケル。 [Web3 におけるエンジニアリング倫理](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018)。 ミディアム、2021年。

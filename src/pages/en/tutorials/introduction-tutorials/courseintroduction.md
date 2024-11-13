@@ -109,3 +109,5 @@ An outline of the topics discussed in each part of our five-part tutorial series
 
 If you're ready to design a new generation of economic systems that are transparent, inclusive, and built to last then lets get to it!
 
+##### Acknowledgements
+Thank you to [Yuta](https://x.com/yuta_cryptox) for helping with Japanese translation.
