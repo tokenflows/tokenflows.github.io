@@ -11,7 +11,7 @@ header:
         - item_name: Models
           item_url: '/models'
         - item_name: Tutorials
-          item_url: '/tutorials/introduction-tutorials/introduction'
+          item_url: '/tutorial/'
         - item_name: About
           item_url: '/about'
 footer:
