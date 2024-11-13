@@ -164,6 +164,10 @@ _誠実さ、個人の合理性_、そして_効率性_。 つまり、参加者
 
 トークンエンジニアリングの旅はまだ始まったばかりです。 これらのツールを賢く活用して、より協力的で持続可能かつ公平な未来を築きましょう。
 
+##### 謝辞
+
+日本語翻訳にご協力いただいた[Yuta](https://x.com/yuta_cryptox)さんに感謝します。
+
 [^1]: ベインホッカー、エリック D. [富の起源：経済学の根本的な改革とそれがビジネスと社会に与える意味](https://archive.org/details/originofwealthra0000bein)。 ハーバードビジネススクール出版、2017年。
 
 [^2]: タイソン、マイク。 [顔を殴られるまでは誰もが計画を持っている](https://www.youtube.com/watch?v=3QRVEL05BCQ)、1987年。
@@ -174,7 +178,7 @@ _誠実さ、個人の合理性_、そして_効率性_。 つまり、参加者
 
 [^5]: クーツ、ベロニカ。 [結合曲線、形状、使用例の紹介](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a)。 ミディアム、2019年。
 
-[^6]: Voshmgir, Shermin.、Zargham, Michael. （2019年）。 [暗号経済システムの基礎](https://assets.pubpub.org/sy02t720/31581340240758.pdf)。 ウィーン経済大学、2019年。
+[^6]: Voshmgir, Shermin & Zargham, Michael. （2019年）。 [暗号経済システムの基礎](https://assets.pubpub.org/sy02t720/31581340240758.pdf)。 ウィーン経済大学、2019年。
 
 [^7]: グリッグ、イアン。 [7層の金融暗号](https://iang.org/papers/fc7.html)。 Springer-Verlag LNCS、2000年。
 
