@@ -1,7 +1,7 @@
 ---
 id: eutxoaccounting
 lang: ja
-url: /posts/eutxoaccounting/
+url: /ja/posts/eutxoaccounting/
 layout: layouts/default.njk
 keywords:
   - トークン
